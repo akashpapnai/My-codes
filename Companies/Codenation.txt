@@ -1,0 +1,4 @@
+Binary Search
+
+Painters Partition Problem					- https://www.interviewbit.com/problems/painters-partition-problem/
+

@@ -1,0 +1,4 @@
+Math
+
+Sorted Permutation Rank							- https://www.interviewbit.com/problems/sorted-permutation-rank/
+Sorted Permutation Rank With Repeats					- https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/

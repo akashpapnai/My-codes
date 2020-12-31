@@ -1,0 +1,8 @@
+Math
+
+Reverse Integer					- https://www.interviewbit.com/problems/reverse-integer/
+
+Strings
+
+Atoi					- https://www.interviewbit.com/problems/atoi/
+

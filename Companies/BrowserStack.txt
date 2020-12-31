@@ -1,0 +1,4 @@
+Strings
+
+Remove Consecutive Characters					- https://www.interviewbit.com/problems/remove-consecutive-characters/
+

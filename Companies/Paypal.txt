@@ -1,0 +1,8 @@
+Array
+
+Maximum Sum Contigious Subarray 				- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+
+Strings
+
+Zigzag String					- https://www.interviewbit.com/problems/zigzag-string/
+

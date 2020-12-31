@@ -1,0 +1,5 @@
+Min steps in infinite grid 		- https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
+Maximum sum triplet 			- https://www.interviewbit.com/problems/maximum-sum-triplet/
+Minimum lights to activate 		- https://www.interviewbit.com/problems/minimum-lights-to-activate/
+Maximum area of Triangle 		- https://www.interviewbit.com/problems/maximum-area-of-triangle/
+

@@ -1,0 +1,12 @@
+Array
+
+Maximum Sum Contigious Subarray 				- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+
+Binary Search
+
+Implement Power Function					- https://www.interviewbit.com/problems/implement-power-function/
+
+Strings
+
+Justified Text					- https://www.interviewbit.com/problems/justified-text/
+

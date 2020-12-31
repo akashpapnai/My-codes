@@ -1,0 +1,4 @@
+Math
+
+Next Smallest Palindrome					- https://www.interviewbit.com/problems/next-smallest-palindrome/
+

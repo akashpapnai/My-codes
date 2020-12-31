@@ -1,0 +1,3 @@
+Binary Search
+
+Woodcutting Made Easy					- https://www.interviewbit.com/problems/woodcutting-made-easy/

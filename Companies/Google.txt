@@ -1,0 +1,37 @@
+Array
+
+Add one to number 				- https://www.interviewbit.com/problems/add-one-to-number/
+Rotate Matrix 					- https://www.interviewbit.com/problems/rotate-matrix/
+Merge Intervals 				- https://www.interviewbit.com/problems/merge-intervals/
+Overlapping intervals 				- https://www.interviewbit.com/problems/merge-overlapping-intervals/
+N/3 Repeat Number 				- https://www.interviewbit.com/problems/n3-repeat-number/
+Wave array 					- https://www.interviewbit.com/problems/wave-array/
+Maximum Distance 				- https://www.interviewbit.com/problems/max-distance/
+Max Min 					- https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/
+Kth row of Pascal Triangle 			- https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
+Pascal Triangle 				- https://www.interviewbit.com/problems/pascal-triangle/
+Add one to the number 				- https://www.interviewbit.com/problems/add-one-to-number/
+
+Math
+
+Sum Of Pairwise Hamming Distance		- https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/
+Grid Unique Paths				- https://www.interviewbit.com/problems/grid-unique-paths/
+Greatest Common Divisor				- https://www.interviewbit.com/problems/greatest-common-divisor/
+Next Smallest Palindrome			- https://www.interviewbit.com/problems/next-smallest-palindrome/
+
+Binary Search
+
+Search For A Range					- https://www.interviewbit.com/problems/search-for-a-range/
+Implement Power Function					- https://www.interviewbit.com/problems/implement-power-function/
+Rotated Sorted Array Search					- https://www.interviewbit.com/problems/rotated-sorted-array-search/
+Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
+Painters Partition Problem					- https://www.interviewbit.com/problems/painters-partition-problem/
+Allocate Books					- https://www.interviewbit.com/problems/allocate-books/
+
+Strings
+
+Longest Common Prefix					- https://www.interviewbit.com/problems/longest-common-prefix/
+Multiply Strings					- https://www.interviewbit.com/problems/multiply-strings/
+Minimum Parantheses					- https://www.interviewbit.com/problems/minimum-parantheses/
+Justified Text					- https://www.interviewbit.com/problems/justified-text/
+

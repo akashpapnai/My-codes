@@ -1,0 +1,10 @@
+Array
+
+Sort Array With Squares					- https://www.interviewbit.com/problems/sort-array-with-squares/
+Find Duplicate In Array					- https://www.interviewbit.com/problems/find-duplicate-in-array/
+Flip					- https://www.interviewbit.com/problems/flip/
+
+Binary Search
+
+Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
+

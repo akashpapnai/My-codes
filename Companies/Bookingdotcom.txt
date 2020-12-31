@@ -1,0 +1,4 @@
+Math
+
+Is Rectangle					- https://www.interviewbit.com/problems/is-rectangle/
+

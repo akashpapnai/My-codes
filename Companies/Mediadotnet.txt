@@ -1,0 +1,3 @@
+Array
+
+Pick From Both Sides			- https://www.interviewbit.com/problems/pick-from-both-sides/

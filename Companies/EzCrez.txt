@@ -1,0 +1,3 @@
+Array
+
+Partitions 						- https://www.interviewbit.com/problems/partitions/
