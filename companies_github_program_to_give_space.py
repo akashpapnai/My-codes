@@ -1,5 +1,5 @@
 import os
-os.chdir(r'/home/akash/Documents/GitHub/My-codes/Companies')
+os.chdir(r'C:\Users\Akash Papnai\OneDrive\Documents\GitHub\My-codes\Companies')
 filename = os.listdir()
 print(filename)
 for f in filename:
