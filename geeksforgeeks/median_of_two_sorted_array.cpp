@@ -8,8 +8,8 @@ int main() {
 	
 	while(t--){
 	    
-	    int arr[] = {900,1000};
-        int brr[] = {5,8,10,20};
+	    int arr[] = {900};
+        int brr[] = {5,10,20,30,40};
 	    
         int n=sizeof(arr)/sizeof(arr[0]), m=sizeof(brr)/sizeof(brr[0]);
 
@@ -66,31 +66,13 @@ float findMedianUtil( int A[], int N, int B[], int M )
  
     else if (N == 2)
     {
-        // Case 4: If the larger array also has two elements,
-        // simply call MO4()
         if (M == 2)
             return MO4(A[0], A[1], B[0], B[1]);
- 
-        // Case 5: If the larger array has odd number of elements,
-        // then median will be one of the following 3 elements
-        // 1. Middle element of larger array
-        // 2. Max of first element of smaller array and element
-        //    just before the middle in bigger array
-        // 3. Min of second element of smaller array and element
-        //    just after the middle in bigger array
         if (M & 1)
             return MO3 ( B[M/2],
                          max(A[0], B[M/2 - 1]),
                          min(A[1], B[M/2 + 1])
                        );
- 
-        // Case 6: If the larger array has even number of elements,
-        // then median will be one of the following 4 elements
-        // 1) & 2) The middle two elements of larger array
-        // 3) Max of first element of smaller array and element
-        //    just before the first middle element in bigger array
-        // 4. Min of second element of smaller array and element
-        //    just after the second middle in bigger array
         return MO4 ( B[M/2],
                      B[M/2 - 1],
                      max( A[0], B[M/2 - 2] ),
