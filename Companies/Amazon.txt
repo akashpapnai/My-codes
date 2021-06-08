@@ -1,51 +1,51 @@
 Array
 
-Maximum Sum Contigious subarray 			- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
-Maximum Absolute difference 				- https://www.interviewbit.com/problems/maximum-absolute-difference/
-Largest Number 						- https://www.interviewbit.com/problems/largest-number/
-Rotate matrix 						- https://www.interviewbit.com/problems/rotate-matrix/
-Next permutation 					- https://www.interviewbit.com/problems/next-permutation/
-Find permutation 					- https://www.interviewbit.com/problems/find-permutation/
-Merge Overlapping intervals 				- https://www.interviewbit.com/problems/merge-overlapping-intervals/
-Set matrix zeros 					- https://www.interviewbit.com/problems/set-matrix-zeros/
-First missing integer 					- https://www.interviewbit.com/problems/first-missing-integer/
-Spiral order matrix 2 					- https://www.interviewbit.com/problems/spiral-order-matrix-ii/
-Pascal Triangle 					- https://www.interviewbit.com/problems/pascal-triangle/
-First Missing Integer 					- https://www.interviewbit.com/problems/first-missing-integer/
-Repeat and missing number array 			- https://www.interviewbit.com/problems/repeat-and-missing-number-array/
-Find duplicate in array 				- https://www.interviewbit.com/problems/find-duplicate-in-array/
-Wave array 						- https://www.interviewbit.com/problems/wave-array/
-Maximum unsorted subarray 				- https://www.interviewbit.com/problems/maximum-unsorted-subarray/
-Maximum distance 					- https://www.interviewbit.com/problems/max-distance/
+Maximum Sum Contigious subarray 				- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+Maximum Absolute difference 					- https://www.interviewbit.com/problems/maximum-absolute-difference/
+Largest Number 							- https://www.interviewbit.com/problems/largest-number/
+Rotate matrix 							- https://www.interviewbit.com/problems/rotate-matrix/
+Next permutation 						- https://www.interviewbit.com/problems/next-permutation/
+Find permutation 						- https://www.interviewbit.com/problems/find-permutation/
+Merge Overlapping intervals 					- https://www.interviewbit.com/problems/merge-overlapping-intervals/
+Set matrix zeros 						- https://www.interviewbit.com/problems/set-matrix-zeros/
+First missing integer 						- https://www.interviewbit.com/problems/first-missing-integer/
+Spiral order matrix 2 						- https://www.interviewbit.com/problems/spiral-order-matrix-ii/
+Pascal Triangle 						- https://www.interviewbit.com/problems/pascal-triangle/
+First Missing Integer 						- https://www.interviewbit.com/problems/first-missing-integer/
+Repeat and missing number array 				- https://www.interviewbit.com/problems/repeat-and-missing-number-array/
+Find duplicate in array 					- https://www.interviewbit.com/problems/find-duplicate-in-array/
+Wave array 							- https://www.interviewbit.com/problems/wave-array/
+Maximum unsorted subarray 					- https://www.interviewbit.com/problems/maximum-unsorted-subarray/
+Maximum distance 						- https://www.interviewbit.com/problems/max-distance/
 
 Math
 
-Power Of Two Integers					- https://www.interviewbit.com/problems/power-of-two-integers/
-Next Similar Number					- https://www.interviewbit.com/problems/next-similar-number/
-Excel Column Number					- https://www.interviewbit.com/problems/excel-column-number/
-Excel Column Title					- https://www.interviewbit.com/problems/excel-column-title/
-Grid Unique Paths					- https://www.interviewbit.com/problems/grid-unique-paths/
+Power Of Two Integers						- https://www.interviewbit.com/problems/power-of-two-integers/
+Next Similar Number						- https://www.interviewbit.com/problems/next-similar-number/
+Excel Column Number						- https://www.interviewbit.com/problems/excel-column-number/
+Excel Column Title						- https://www.interviewbit.com/problems/excel-column-title/
+Grid Unique Paths						- https://www.interviewbit.com/problems/grid-unique-paths/
 
 Binary Search
 
-Matrix Median					- https://www.interviewbit.com/problems/matrix-median/
-Square Root Of Integer					- https://www.interviewbit.com/problems/square-root-of-integer/
+Matrix Median							- https://www.interviewbit.com/problems/matrix-median/
+Square Root Of Integer						- https://www.interviewbit.com/problems/square-root-of-integer/
 Rotated Sorted Array Search					- https://www.interviewbit.com/problems/rotated-sorted-array-search/
-Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
+Median Of Array							- https://www.interviewbit.com/problems/median-of-array/
 
 Strings
 
-Count And Say					- https://www.interviewbit.com/problems/count-and-say/
-Compare Version Numbers					- https://www.interviewbit.com/problems/compare-version-numbers/
-Atoi					- https://www.interviewbit.com/problems/atoi/
-Valid Ip Addresses					- https://www.interviewbit.com/problems/valid-ip-addresses/
-Implement Strstr					- https://www.interviewbit.com/problems/implement-strstr/
-Roman To Integer					- https://www.interviewbit.com/problems/roman-to-integer/
-Integer To Roman					- https://www.interviewbit.com/problems/integer-to-roman/
-Power Of 2					- https://www.interviewbit.com/problems/power-of-2/
-Minimum Characters Required To Make A String Palindromic					- https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/
-Convert To Palindrome					- https://www.interviewbit.com/problems/convert-to-palindrome/
+Count And Say							- https://www.interviewbit.com/problems/count-and-say/
+Compare Version Numbers						- https://www.interviewbit.com/problems/compare-version-numbers/
+Atoi								- https://www.interviewbit.com/problems/atoi/
+Valid Ip Addresses						- https://www.interviewbit.com/problems/valid-ip-addresses/
+Implement Strstr						- https://www.interviewbit.com/problems/implement-strstr/
+Roman To Integer						- https://www.interviewbit.com/problems/roman-to-integer/
+Integer To Roman						- https://www.interviewbit.com/problems/integer-to-roman/
+Power Of 2							- https://www.interviewbit.com/problems/power-of-2/
+Minimum Characters Required To Make A String Palindromic	- https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/
+Convert To Palindrome						- https://www.interviewbit.com/problems/convert-to-palindrome/
 Longest Palindromic Substring					- https://www.interviewbit.com/problems/longest-palindromic-substring/
-Length Of Last Word					- https://www.interviewbit.com/problems/length-of-last-word/
-Reverse The String					- https://www.interviewbit.com/problems/reverse-the-string/
+Length Of Last Word						- https://www.interviewbit.com/problems/length-of-last-word/
+Reverse The String						- https://www.interviewbit.com/problems/reverse-the-string/
 
