@@ -121,39 +121,39 @@ Points On The Straight Line					- https://www.interviewbit.com/problems/points-o
 
 Heaps And Maps
 
-K Largest Elements					- https://www.interviewbit.com/problems/k-largest-elements/
+K Largest Elements						- https://www.interviewbit.com/problems/k-largest-elements/
 Maximum Sum Combinations					- https://www.interviewbit.com/problems/maximum-sum-combinations/
-Merge K Sorted Lists					- https://www.interviewbit.com/problems/merge-k-sorted-lists/
+Merge K Sorted Lists						- https://www.interviewbit.com/problems/merge-k-sorted-lists/
 Distinct Numbers In Window					- https://www.interviewbit.com/problems/distinct-numbers-in-window/
-Lru Cache					- https://www.interviewbit.com/problems/lru-cache/
+Lru Cache							- https://www.interviewbit.com/problems/lru-cache/
 
 Tree Data Structure
 
 Kth Smallest Element In Tree					- https://www.interviewbit.com/problems/kth-smallest-element-in-tree/
-2sum Binary Tree					- https://www.interviewbit.com/problems/2sum-binary-tree/
-Bst Iterator					- https://www.interviewbit.com/problems/bst-iterator/
+2sum Binary Tree						- https://www.interviewbit.com/problems/2sum-binary-tree/
+Bst Iterator							- https://www.interviewbit.com/problems/bst-iterator/
 Recover Binary Search Tree					- https://www.interviewbit.com/problems/recover-binary-search-tree/
-Inorder Traversal Of Cartesian Tree					- https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/
+Inorder Traversal Of Cartesian Tree				- https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/
 Sorted Array To Balanced Bst					- https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/
-Construct Binary Tree From Inorder And Preorder					- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
-Binary Tree From Inorder And Postorder					- https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
-Path To Given Node					- https://www.interviewbit.com/problems/path-to-given-node/
-Remove Half Nodes					- https://www.interviewbit.com/problems/remove-half-nodes/
-Balanced Binary Tree					- https://www.interviewbit.com/problems/balanced-binary-tree/
-Merge Two Binary Tree					- https://www.interviewbit.com/problems/merge-two-binary-tree/
-Symmetric Binary Tree					- https://www.interviewbit.com/problems/symmetric-binary-tree/
-Identical Binary Trees					- https://www.interviewbit.com/problems/identical-binary-trees/
-Path Sum					- https://www.interviewbit.com/problems/path-sum/
+Construct Binary Tree From Inorder And Preorder			- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
+Binary Tree From Inorder And Postorder				- https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
+Path To Given Node						- https://www.interviewbit.com/problems/path-to-given-node/
+Remove Half Nodes						- https://www.interviewbit.com/problems/remove-half-nodes/
+Balanced Binary Tree						- https://www.interviewbit.com/problems/balanced-binary-tree/
+Merge Two Binary Tree						- https://www.interviewbit.com/problems/merge-two-binary-tree/
+Symmetric Binary Tree						- https://www.interviewbit.com/problems/symmetric-binary-tree/
+Identical Binary Trees						- https://www.interviewbit.com/problems/identical-binary-trees/
+Path Sum							- https://www.interviewbit.com/problems/path-sum/
 Min Depth Of Binary Tree					- https://www.interviewbit.com/problems/min-depth-of-binary-tree/
 Root To Leaf Paths With Sum					- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
-Vertical Order Traversal Of Binary Tree					- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
-Diagonal Traversal					- https://www.interviewbit.com/problems/diagonal-traversal/
-Inorder Traversal					- https://www.interviewbit.com/problems/inorder-traversal/
-Preorder Traversal					- https://www.interviewbit.com/problems/preorder-traversal/
-Postorder Traversal					- https://www.interviewbit.com/problems/postorder-traversal/
-Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
-Flatten Binary Tree To Linked List					- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
-Cousins In Binary Tree					- https://www.interviewbit.com/problems/cousins-in-binary-tree/
+Vertical Order Traversal Of Binary Tree				- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
+Diagonal Traversal						- https://www.interviewbit.com/problems/diagonal-traversal/
+Inorder Traversal						- https://www.interviewbit.com/problems/inorder-traversal/
+Preorder Traversal						- https://www.interviewbit.com/problems/preorder-traversal/
+Postorder Traversal						- https://www.interviewbit.com/problems/postorder-traversal/
+Least Common Ancestor						- https://www.interviewbit.com/problems/least-common-ancestor/
+Flatten Binary Tree To Linked List				- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
+Cousins In Binary Tree						- https://www.interviewbit.com/problems/cousins-in-binary-tree/
 Zigzag Level Order Traversal Bt					- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
-Populate Next Right Pointers Tree					- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
-Maximum Edge Removal					- https://www.interviewbit.com/problems/maximum-edge-removal/
+Populate Next Right Pointers Tree				- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
+Maximum Edge Removal						- https://www.interviewbit.com/problems/maximum-edge-removal/

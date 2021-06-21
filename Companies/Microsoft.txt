@@ -89,23 +89,23 @@ Fraction								- https://www.interviewbit.com/problems/fraction/
 
 Heaps And Maps
 
-Lru Cache					- https://www.interviewbit.com/problems/lru-cache/
+Lru Cache								- https://www.interviewbit.com/problems/lru-cache/
 
 Tree Data Structure
 
-Recover Binary Search Tree					- https://www.interviewbit.com/problems/recover-binary-search-tree/
-Construct Binary Tree From Inorder And Preorder					- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
+Recover Binary Search Tree						- https://www.interviewbit.com/problems/recover-binary-search-tree/
+Construct Binary Tree From Inorder And Preorder				- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
 Binary Tree From Inorder And Postorder					- https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
-Max Depth Of Binary Tree					- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
-Sum Root To Leaf Numbers					- https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
-Path Sum					- https://www.interviewbit.com/problems/path-sum/
-Root To Leaf Paths With Sum					- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
+Max Depth Of Binary Tree						- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
+Sum Root To Leaf Numbers						- https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
+Path Sum								- https://www.interviewbit.com/problems/path-sum/
+Root To Leaf Paths With Sum						- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
 Vertical Order Traversal Of Binary Tree					- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
-Inorder Traversal					- https://www.interviewbit.com/problems/inorder-traversal/
-Preorder Traversal					- https://www.interviewbit.com/problems/preorder-traversal/
-Postorder Traversal					- https://www.interviewbit.com/problems/postorder-traversal/
-Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
+Inorder Traversal							- https://www.interviewbit.com/problems/inorder-traversal/
+Preorder Traversal							- https://www.interviewbit.com/problems/preorder-traversal/
+Postorder Traversal							- https://www.interviewbit.com/problems/postorder-traversal/
+Least Common Ancestor							- https://www.interviewbit.com/problems/least-common-ancestor/
 Flatten Binary Tree To Linked List					- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
-Zigzag Level Order Traversal Bt					- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
+Zigzag Level Order Traversal Bt						- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
 Populate Next Right Pointers Tree					- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
 
