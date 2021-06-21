@@ -1,16 +1,21 @@
 Binary Search
 
-Woodcutting Made Easy					- https://www.interviewbit.com/problems/woodcutting-made-easy/
+Woodcutting Made Easy							- https://www.interviewbit.com/problems/woodcutting-made-easy/
 
 Two Pointers
 
-Pair With Given Difference					- https://www.interviewbit.com/problems/pair-with-given-difference/
+Pair With Given Difference						- https://www.interviewbit.com/problems/pair-with-given-difference/
 
 Stacks And Queues
 
-First Non Repeating Character In A Stream Of Characters					- https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
+First Non Repeating Character In A Stream Of Characters			- https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
 
 Hashing
 
-Pairs With Given Xor					- https://www.interviewbit.com/problems/pairs-with-given-xor/
+Pairs With Given Xor							- https://www.interviewbit.com/problems/pairs-with-given-xor/
+
+Heaps And Maps
+
+K Largest Elements					- https://www.interviewbit.com/problems/k-largest-elements/
+Merge K Sorted Lists					- https://www.interviewbit.com/problems/merge-k-sorted-lists/
 

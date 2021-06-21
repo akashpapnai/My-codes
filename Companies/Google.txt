@@ -1,75 +1,87 @@
 Array
 
-Add one to number 				- https://www.interviewbit.com/problems/add-one-to-number/
-Rotate Matrix 					- https://www.interviewbit.com/problems/rotate-matrix/
-Merge Intervals 				- https://www.interviewbit.com/problems/merge-intervals/
-Overlapping intervals 				- https://www.interviewbit.com/problems/merge-overlapping-intervals/
-N/3 Repeat Number 				- https://www.interviewbit.com/problems/n3-repeat-number/
-Wave array 					- https://www.interviewbit.com/problems/wave-array/
-Maximum Distance 				- https://www.interviewbit.com/problems/max-distance/
-Max Min 					- https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/
-Kth row of Pascal Triangle 			- https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
-Pascal Triangle 				- https://www.interviewbit.com/problems/pascal-triangle/
-Add one to the number 				- https://www.interviewbit.com/problems/add-one-to-number/
+Add one to number 						- https://www.interviewbit.com/problems/add-one-to-number/
+Rotate Matrix 							- https://www.interviewbit.com/problems/rotate-matrix/
+Merge Intervals 						- https://www.interviewbit.com/problems/merge-intervals/
+Overlapping intervals 						- https://www.interviewbit.com/problems/merge-overlapping-intervals/
+N/3 Repeat Number 						- https://www.interviewbit.com/problems/n3-repeat-number/
+Wave array 							- https://www.interviewbit.com/problems/wave-array/
+Maximum Distance 						- https://www.interviewbit.com/problems/max-distance/
+Max Min 							- https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/
+Kth row of Pascal Triangle 					- https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
+Pascal Triangle 						- https://www.interviewbit.com/problems/pascal-triangle/
+Add one to the number 						- https://www.interviewbit.com/problems/add-one-to-number/
 
 Math
 
-Sum Of Pairwise Hamming Distance		- https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/
-Grid Unique Paths				- https://www.interviewbit.com/problems/grid-unique-paths/
-Greatest Common Divisor				- https://www.interviewbit.com/problems/greatest-common-divisor/
-Next Smallest Palindrome			- https://www.interviewbit.com/problems/next-smallest-palindrome/
+Sum Of Pairwise Hamming Distance				- https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/
+Grid Unique Paths						- https://www.interviewbit.com/problems/grid-unique-paths/
+Greatest Common Divisor						- https://www.interviewbit.com/problems/greatest-common-divisor/
+Next Smallest Palindrome					- https://www.interviewbit.com/problems/next-smallest-palindrome/
 
 Binary Search
 
-Search For A Range					- https://www.interviewbit.com/problems/search-for-a-range/
+Search For A Range						- https://www.interviewbit.com/problems/search-for-a-range/
 Implement Power Function					- https://www.interviewbit.com/problems/implement-power-function/
 Rotated Sorted Array Search					- https://www.interviewbit.com/problems/rotated-sorted-array-search/
-Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
+Median Of Array							- https://www.interviewbit.com/problems/median-of-array/
 Painters Partition Problem					- https://www.interviewbit.com/problems/painters-partition-problem/
-Allocate Books					- https://www.interviewbit.com/problems/allocate-books/
+Allocate Books							- https://www.interviewbit.com/problems/allocate-books/
 
 Strings
 
-Longest Common Prefix					- https://www.interviewbit.com/problems/longest-common-prefix/
-Multiply Strings					- https://www.interviewbit.com/problems/multiply-strings/
-Minimum Parantheses					- https://www.interviewbit.com/problems/minimum-parantheses/
-Justified Text					- https://www.interviewbit.com/problems/justified-text/
+Longest Common Prefix						- https://www.interviewbit.com/problems/longest-common-prefix/
+Multiply Strings						- https://www.interviewbit.com/problems/multiply-strings/
+Minimum Parantheses						- https://www.interviewbit.com/problems/minimum-parantheses/
+Justified Text							- https://www.interviewbit.com/problems/justified-text/
 
 Bit Manipulation
 
 Different Bits Sum Pairwise					- https://www.interviewbit.com/problems/different-bits-sum-pairwise/
-Single Number Ii					- https://www.interviewbit.com/problems/single-number-ii/
+Single Number Ii						- https://www.interviewbit.com/problems/single-number-ii/
 
 Two Pointers
 
-3 Sum Zero					- https://www.interviewbit.com/problems/3-sum-zero/
+3 Sum Zero							- https://www.interviewbit.com/problems/3-sum-zero/
 Intersection Of Sorted Arrays					- https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
-Remove Duplicates From Sorted Array					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
-Array 3 Pointers					- https://www.interviewbit.com/problems/array-3-pointers/
+Remove Duplicates From Sorted Array				- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
+Array 3 Pointers						- https://www.interviewbit.com/problems/array-3-pointers/
 Container With Most Water					- https://www.interviewbit.com/problems/container-with-most-water/
 
 Linked Lists
 
-Insertion Sort List					- https://www.interviewbit.com/problems/insertion-sort-list/
-Sort List					- https://www.interviewbit.com/problems/sort-list/
+Insertion Sort List						- https://www.interviewbit.com/problems/insertion-sort-list/
+Sort List							- https://www.interviewbit.com/problems/sort-list/
 
 Stacks And Queues
 
-Balanced Parantheses					- https://www.interviewbit.com/problems/balanced-parantheses/
-Sliding Window Maximum					- https://www.interviewbit.com/problems/sliding-window-maximum/
+Balanced Parantheses						- https://www.interviewbit.com/problems/balanced-parantheses/
+Sliding Window Maximum						- https://www.interviewbit.com/problems/sliding-window-maximum/
 Largest Rectangle In Histogram					- https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
-Evaluate Expression					- https://www.interviewbit.com/problems/evaluate-expression/
+Evaluate Expression						- https://www.interviewbit.com/problems/evaluate-expression/
 
 Backtracking
 
-Permutations					- https://www.interviewbit.com/problems/permutations/
-Nqueens					- https://www.interviewbit.com/problems/nqueens/
-Palindrome Partitioning					- https://www.interviewbit.com/problems/palindrome-partitioning/
+Permutations							- https://www.interviewbit.com/problems/permutations/
+Nqueens								- https://www.interviewbit.com/problems/nqueens/
+Palindrome Partitioning						- https://www.interviewbit.com/problems/palindrome-partitioning/
 
 Hashing
 
-2 Sum					- https://www.interviewbit.com/problems/2-sum/
-4 Sum					- https://www.interviewbit.com/problems/4-sum/
-Valid Sudoku					- https://www.interviewbit.com/problems/valid-sudoku/
-Window String					- https://www.interviewbit.com/problems/window-string/
+2 Sum								- https://www.interviewbit.com/problems/2-sum/
+4 Sum								- https://www.interviewbit.com/problems/4-sum/
+Valid Sudoku							- https://www.interviewbit.com/problems/valid-sudoku/
+Window String							- https://www.interviewbit.com/problems/window-string/
 Points On The Straight Line					- https://www.interviewbit.com/problems/points-on-the-straight-line/
+
+Heaps And Maps
+
+Merge K Sorted Lists					- https://www.interviewbit.com/problems/merge-k-sorted-lists/
+
+Tree Data Structure
+
+Invert The Binary Tree					- https://www.interviewbit.com/problems/invert-the-binary-tree/
+Sum Root To Leaf Numbers					- https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
+Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
+Order Of People Heights					- https://www.interviewbit.com/problems/order-of-people-heights/
+Shortest Unique Prefix					- https://www.interviewbit.com/problems/shortest-unique-prefix/

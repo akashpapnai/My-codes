@@ -1,88 +1,111 @@
 Array
 
-Add One To Number					- https://www.interviewbit.com/problems/add-one-to-number/
-Max Sum Contiguous Subarray					- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
-Largest Number					- https://www.interviewbit.com/problems/largest-number/
-Next Permutation					- https://www.interviewbit.com/problems/next-permutation/
-Spiral Order Matrix Ii					- https://www.interviewbit.com/problems/spiral-order-matrix-ii/
-Anti Diagonals					- https://www.interviewbit.com/problems/anti-diagonals/
-Hotel Bookings Possible					- https://www.interviewbit.com/problems/hotel-bookings-possible/
-Maximum Unsorted Subarray					- https://www.interviewbit.com/problems/maximum-unsorted-subarray/
-Max Distance					- https://www.interviewbit.com/problems/max-distance/
+Add One To Number							- https://www.interviewbit.com/problems/add-one-to-number/
+Max Sum Contiguous Subarray						- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+Largest Number								- https://www.interviewbit.com/problems/largest-number/
+Next Permutation							- https://www.interviewbit.com/problems/next-permutation/
+Spiral Order Matrix Ii							- https://www.interviewbit.com/problems/spiral-order-matrix-ii/
+Anti Diagonals								- https://www.interviewbit.com/problems/anti-diagonals/
+Hotel Bookings Possible							- https://www.interviewbit.com/problems/hotel-bookings-possible/
+Maximum Unsorted Subarray						- https://www.interviewbit.com/problems/maximum-unsorted-subarray/
+Max Distance								- https://www.interviewbit.com/problems/max-distance/
 
 Math
 
-Grid Unique Paths					- https://www.interviewbit.com/problems/grid-unique-paths/
-Trailing Zeros In Factorial					- https://www.interviewbit.com/problems/trailing-zeros-in-factorial/
-Sorted Permutation Rank					- https://www.interviewbit.com/problems/sorted-permutation-rank/
+Grid Unique Paths							- https://www.interviewbit.com/problems/grid-unique-paths/
+Trailing Zeros In Factorial						- https://www.interviewbit.com/problems/trailing-zeros-in-factorial/
+Sorted Permutation Rank							- https://www.interviewbit.com/problems/sorted-permutation-rank/
 
 Binary Search
 
-Search For A Range					- https://www.interviewbit.com/problems/search-for-a-range/
-Rotated Sorted Array Search					- https://www.interviewbit.com/problems/rotated-sorted-array-search/
-Square Root Of Integer					- https://www.interviewbit.com/problems/square-root-of-integer/
-Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
+Search For A Range							- https://www.interviewbit.com/problems/search-for-a-range/
+Rotated Sorted Array Search						- https://www.interviewbit.com/problems/rotated-sorted-array-search/
+Square Root Of Integer							- https://www.interviewbit.com/problems/square-root-of-integer/
+Median Of Array								- https://www.interviewbit.com/problems/median-of-array/
 
 Strings
 
-Atoi					- https://www.interviewbit.com/problems/atoi/
-Roman To Integer					- https://www.interviewbit.com/problems/roman-to-integer/
-Integer To Roman					- https://www.interviewbit.com/problems/integer-to-roman/
-Add Binary Strings					- https://www.interviewbit.com/problems/add-binary-strings/
-Multiply Strings					- https://www.interviewbit.com/problems/multiply-strings/
-Implement Strstr					- https://www.interviewbit.com/problems/implement-strstr/
-Longest Palindromic Substring					- https://www.interviewbit.com/problems/longest-palindromic-substring/
-Pretty Json					- https://www.interviewbit.com/problems/pretty-json/
-Reverse The String					- https://www.interviewbit.com/problems/reverse-the-string/
+Atoi									- https://www.interviewbit.com/problems/atoi/
+Roman To Integer							- https://www.interviewbit.com/problems/roman-to-integer/
+Integer To Roman							- https://www.interviewbit.com/problems/integer-to-roman/
+Add Binary Strings							- https://www.interviewbit.com/problems/add-binary-strings/
+Multiply Strings							- https://www.interviewbit.com/problems/multiply-strings/
+Implement Strstr							- https://www.interviewbit.com/problems/implement-strstr/
+Longest Palindromic Substring						- https://www.interviewbit.com/problems/longest-palindromic-substring/
+Pretty Json								- https://www.interviewbit.com/problems/pretty-json/
+Reverse The String							- https://www.interviewbit.com/problems/reverse-the-string/
 
 Bit Manipulation
 
-Divide Integers					- https://www.interviewbit.com/problems/divide-integers/
+Divide Integers								- https://www.interviewbit.com/problems/divide-integers/
 
 Two Pointers
 
-3 Sum					- https://www.interviewbit.com/problems/3-sum/
-Merge Two Sorted Lists Ii					- https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
+3 Sum									- https://www.interviewbit.com/problems/3-sum/
+Merge Two Sorted Lists Ii						- https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
 Remove Duplicates From Sorted Array					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
 Remove Duplicates From Sorted Array Ii					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/
-Sort By Color					- https://www.interviewbit.com/problems/sort-by-color/
-Array 3 Pointers					- https://www.interviewbit.com/problems/array-3-pointers/
+Sort By Color								- https://www.interviewbit.com/problems/sort-by-color/
+Array 3 Pointers							- https://www.interviewbit.com/problems/array-3-pointers/
 
 Linked Lists
 
-Partition List					- https://www.interviewbit.com/problems/partition-list/
-Insertion Sort List					- https://www.interviewbit.com/problems/insertion-sort-list/
-Reverse Link List Ii					- https://www.interviewbit.com/problems/reverse-link-list-ii/
-Reorder List					- https://www.interviewbit.com/problems/reorder-list/
-Palindrome List					- https://www.interviewbit.com/problems/palindrome-list/
+Partition List								- https://www.interviewbit.com/problems/partition-list/
+Insertion Sort List							- https://www.interviewbit.com/problems/insertion-sort-list/
+Reverse Link List Ii							- https://www.interviewbit.com/problems/reverse-link-list-ii/
+Reorder List								- https://www.interviewbit.com/problems/reorder-list/
+Palindrome List								- https://www.interviewbit.com/problems/palindrome-list/
 Remove Duplicates From Sorted List Ii					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/
-Merge Two Sorted Lists					- https://www.interviewbit.com/problems/merge-two-sorted-lists/
+Merge Two Sorted Lists							- https://www.interviewbit.com/problems/merge-two-sorted-lists/
 Remove Duplicates From Sorted List					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/
-Add Two Numbers As Lists					- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
-List Cycle					- https://www.interviewbit.com/problems/list-cycle/
-K Reverse Linked List					- https://www.interviewbit.com/problems/k-reverse-linked-list/
-Swap List Nodes In Pairs					- https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/
+Add Two Numbers As Lists						- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
+List Cycle								- https://www.interviewbit.com/problems/list-cycle/
+K Reverse Linked List							- https://www.interviewbit.com/problems/k-reverse-linked-list/
+Swap List Nodes In Pairs						- https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/
 
 Stacks And Queues
 
-Simplify Directory Path					- https://www.interviewbit.com/problems/simplify-directory-path/
-Min Stack					- https://www.interviewbit.com/problems/min-stack/
-Nearest Smaller Element					- https://www.interviewbit.com/problems/nearest-smaller-element/
-Rain Water Trapped					- https://www.interviewbit.com/problems/rain-water-trapped/
+Simplify Directory Path							- https://www.interviewbit.com/problems/simplify-directory-path/
+Min Stack								- https://www.interviewbit.com/problems/min-stack/
+Nearest Smaller Element							- https://www.interviewbit.com/problems/nearest-smaller-element/
+Rain Water Trapped							- https://www.interviewbit.com/problems/rain-water-trapped/
 
 Backtracking
 
-Gray Code					- https://www.interviewbit.com/problems/gray-code/
-Permutations					- https://www.interviewbit.com/problems/permutations/
-Sudoku					- https://www.interviewbit.com/problems/sudoku/
-Subset					- https://www.interviewbit.com/problems/subset/
-Combination Sum Ii					- https://www.interviewbit.com/problems/combination-sum-ii/
-Subsets Ii					- https://www.interviewbit.com/problems/subsets-ii/
-Generate All Parentheses Ii					- https://www.interviewbit.com/problems/generate-all-parentheses-ii/
+Gray Code								- https://www.interviewbit.com/problems/gray-code/
+Permutations								- https://www.interviewbit.com/problems/permutations/
+Sudoku									- https://www.interviewbit.com/problems/sudoku/
+Subset									- https://www.interviewbit.com/problems/subset/
+Combination Sum Ii							- https://www.interviewbit.com/problems/combination-sum-ii/
+Subsets Ii								- https://www.interviewbit.com/problems/subsets-ii/
+Generate All Parentheses Ii						- https://www.interviewbit.com/problems/generate-all-parentheses-ii/
 
 Hashing
 
 Largest Continuous Sequence Zero Sum					- https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/
-Anagrams					- https://www.interviewbit.com/problems/anagrams/
-Copy List					- https://www.interviewbit.com/problems/copy-list/
-Fraction					- https://www.interviewbit.com/problems/fraction/
+Anagrams								- https://www.interviewbit.com/problems/anagrams/
+Copy List								- https://www.interviewbit.com/problems/copy-list/
+Fraction								- https://www.interviewbit.com/problems/fraction/
+
+Heaps And Maps
+
+Lru Cache					- https://www.interviewbit.com/problems/lru-cache/
+
+Tree Data Structure
+
+Recover Binary Search Tree					- https://www.interviewbit.com/problems/recover-binary-search-tree/
+Construct Binary Tree From Inorder And Preorder					- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
+Binary Tree From Inorder And Postorder					- https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
+Max Depth Of Binary Tree					- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
+Sum Root To Leaf Numbers					- https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
+Path Sum					- https://www.interviewbit.com/problems/path-sum/
+Root To Leaf Paths With Sum					- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
+Vertical Order Traversal Of Binary Tree					- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
+Inorder Traversal					- https://www.interviewbit.com/problems/inorder-traversal/
+Preorder Traversal					- https://www.interviewbit.com/problems/preorder-traversal/
+Postorder Traversal					- https://www.interviewbit.com/problems/postorder-traversal/
+Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
+Flatten Binary Tree To Linked List					- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
+Zigzag Level Order Traversal Bt					- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
+Populate Next Right Pointers Tree					- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
+

@@ -4,4 +4,4 @@ Greatest Common Divisor					- https://www.interviewbit.com/problems/greatest-com
 
 Linked Lists
 
-List Cycle					- https://www.interviewbit.com/problems/list-cycle/
+List Cycle						- https://www.interviewbit.com/problems/list-cycle/

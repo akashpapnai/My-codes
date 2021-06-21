@@ -1,12 +1,20 @@
 Array
 
-Maximum Sum Square Submatrix			- https://www.interviewbit.com/problems/maximum-sum-square-submatrix/
+Maximum Sum Square Submatrix				- https://www.interviewbit.com/problems/maximum-sum-square-submatrix/
 
 Bit Manipulation
 
-Trailing Zeroes					- https://www.interviewbit.com/problems/trailing-zeroes/
+Trailing Zeroes						- https://www.interviewbit.com/problems/trailing-zeroes/
 
 Hashing
 
 First Repeating Element					- https://www.interviewbit.com/problems/first-repeating-element/
 Longest Subarray Length					- https://www.interviewbit.com/problems/longest-subarray-length/
+
+Tree Data Structure
+
+Diagonal Traversal					- https://www.interviewbit.com/problems/diagonal-traversal/
+Right View Of Binary Tree					- https://www.interviewbit.com/problems/right-view-of-binary-tree/
+Cousins In Binary Tree					- https://www.interviewbit.com/problems/cousins-in-binary-tree/
+Reverse Level Order					- https://www.interviewbit.com/problems/reverse-level-order/
+

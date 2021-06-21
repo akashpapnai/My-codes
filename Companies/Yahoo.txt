@@ -1,24 +1,30 @@
 Array
 
-Max Sum Contiguous Subarray			- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+Max Sum Contiguous Subarray						- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
 
 Binary Search
 
-Sorted Insert Position					- https://www.interviewbit.com/problems/sorted-insert-position/
+Sorted Insert Position							- https://www.interviewbit.com/problems/sorted-insert-position/
 
 Bit Manipulation
 
-Number Of 1 Bits					- https://www.interviewbit.com/problems/number-of-1-bits/
+Number Of 1 Bits							- https://www.interviewbit.com/problems/number-of-1-bits/
 
 Two Pointers
 
-Array 3 Pointers					- https://www.interviewbit.com/problems/array-3-pointers/
+Array 3 Pointers							- https://www.interviewbit.com/problems/array-3-pointers/
 
 Linked Lists
 
-Merge Two Sorted Lists					- https://www.interviewbit.com/problems/merge-two-sorted-lists/
+Merge Two Sorted Lists							- https://www.interviewbit.com/problems/merge-two-sorted-lists/
 
 Stacks And Queues
 
-Min Stack					- https://www.interviewbit.com/problems/min-stack/
-Evaluate Expression					- https://www.interviewbit.com/problems/evaluate-expression/
+Min Stack								- https://www.interviewbit.com/problems/min-stack/
+Evaluate Expression							- https://www.interviewbit.com/problems/evaluate-expression/
+
+Tree Data Structure
+
+Root To Leaf Paths With Sum					- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
+Path Sum					- https://www.interviewbit.com/problems/path-sum/
+

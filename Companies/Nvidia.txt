@@ -1,6 +1,6 @@
 Strings
 
-Atoi					- https://www.interviewbit.com/problems/atoi/
+Atoi						- https://www.interviewbit.com/problems/atoi/
 
 Bit Manipulation
 

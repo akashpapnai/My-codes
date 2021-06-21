@@ -1,24 +1,28 @@
 Array
 
-Max Sum Contigious subarray 		- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
-Largest Number 				- https://www.interviewbit.com/problems/largest-number/
-Find Permutation 			- https://www.interviewbit.com/problems/find-permutation/
-Hotel Booking Possible 			- https://www.interviewbit.com/problems/hotel-bookings-possible/
+Max Sum Contigious subarray 					- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+Largest Number 							- https://www.interviewbit.com/problems/largest-number/
+Find Permutation 						- https://www.interviewbit.com/problems/find-permutation/
+Hotel Booking Possible 						- https://www.interviewbit.com/problems/hotel-bookings-possible/
 
 Math
 
-Distribute In Circle					- https://www.interviewbit.com/problems/distribute-in-circle/
-Total Moves For Bishop					- https://www.interviewbit.com/problems/total-moves-for-bishop/
+Distribute In Circle						- https://www.interviewbit.com/problems/distribute-in-circle/
+Total Moves For Bishop						- https://www.interviewbit.com/problems/total-moves-for-bishop/
 
 Binary Search
 
-Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
+Median Of Array							- https://www.interviewbit.com/problems/median-of-array/
 
 Stacks And Queues
 
-Rain Water Trapped					- https://www.interviewbit.com/problems/rain-water-trapped/
+Rain Water Trapped						- https://www.interviewbit.com/problems/rain-water-trapped/
 
 Hashing
 
-Anagrams					- https://www.interviewbit.com/problems/anagrams/
+Anagrams							- https://www.interviewbit.com/problems/anagrams/
+
+Tree Data Structure
+
+Max Depth Of Binary Tree					- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
 

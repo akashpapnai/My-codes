@@ -1,6 +1,6 @@
 Math
 
-Power Of Two Integers					- https://www.interviewbit.com/problems/power-of-two-integers/
-Sorted Permutation Rank					- https://www.interviewbit.com/problems/sorted-permutation-rank/
+Power Of Two Integers							- https://www.interviewbit.com/problems/power-of-two-integers/
+Sorted Permutation Rank							- https://www.interviewbit.com/problems/sorted-permutation-rank/
 Sorted Permutation Rank With Repeats					- https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/
 

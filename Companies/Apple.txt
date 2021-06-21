@@ -1,8 +1,11 @@
 Strings
 
-Atoi					- https://www.interviewbit.com/problems/atoi/
+Atoi						- https://www.interviewbit.com/problems/atoi/
 
 Backtracking
 
 Maximal String					- https://www.interviewbit.com/problems/maximal-string/
 
+Tree Data Structure
+
+Bst Iterator					- https://www.interviewbit.com/problems/bst-iterator/

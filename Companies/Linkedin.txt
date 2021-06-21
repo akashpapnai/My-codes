@@ -8,5 +8,5 @@ Implement Power Function					- https://www.interviewbit.com/problems/implement-p
 
 Strings
 
-Justified Text					- https://www.interviewbit.com/problems/justified-text/
+Justified Text							- https://www.interviewbit.com/problems/justified-text/
 

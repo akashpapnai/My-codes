@@ -4,5 +4,5 @@ Maximum Sum Contigious Subarray 				- https://www.interviewbit.com/problems/max-
 
 Strings
 
-Zigzag String					- https://www.interviewbit.com/problems/zigzag-string/
+Zigzag String							- https://www.interviewbit.com/problems/zigzag-string/
 

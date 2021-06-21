@@ -1,11 +1,11 @@
 Math
 
-Palindrome Integer					- https://www.interviewbit.com/problems/palindrome-integer/
-Reverse Integer					- https://www.interviewbit.com/problems/reverse-integer/
+Palindrome Integer						- https://www.interviewbit.com/problems/palindrome-integer/
+Reverse Integer							- https://www.interviewbit.com/problems/reverse-integer/
 
 Bit Manipulation
 
-Reverse Bits					- https://www.interviewbit.com/problems/reverse-bits/
+Reverse Bits							- https://www.interviewbit.com/problems/reverse-bits/
 
 Linked Lists
 

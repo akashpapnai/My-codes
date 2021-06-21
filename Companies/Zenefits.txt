@@ -1,8 +1,8 @@
 Math
 
-Sorted Permutation Rank							- https://www.interviewbit.com/problems/sorted-permutation-rank/
-Sorted Permutation Rank With Repeats					- https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/
+Sorted Permutation Rank								- https://www.interviewbit.com/problems/sorted-permutation-rank/
+Sorted Permutation Rank With Repeats						- https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/
 
 Bit Manipulation
 
-Xor Ing The Subarrays					- https://www.interviewbit.com/problems/xor-ing-the-subarrays/
+Xor Ing The Subarrays								- https://www.interviewbit.com/problems/xor-ing-the-subarrays/
