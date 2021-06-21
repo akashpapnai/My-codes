@@ -6,3 +6,19 @@ Binary Search
 
 Sorted Insert Position					- https://www.interviewbit.com/problems/sorted-insert-position/
 
+Bit Manipulation
+
+Number Of 1 Bits					- https://www.interviewbit.com/problems/number-of-1-bits/
+
+Two Pointers
+
+Array 3 Pointers					- https://www.interviewbit.com/problems/array-3-pointers/
+
+Linked Lists
+
+Merge Two Sorted Lists					- https://www.interviewbit.com/problems/merge-two-sorted-lists/
+
+Stacks And Queues
+
+Min Stack					- https://www.interviewbit.com/problems/min-stack/
+Evaluate Expression					- https://www.interviewbit.com/problems/evaluate-expression/

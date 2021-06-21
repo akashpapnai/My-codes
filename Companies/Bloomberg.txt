@@ -6,3 +6,7 @@ Strings
 
 Atoi					- https://www.interviewbit.com/problems/atoi/
 
+Hashing
+
+An Increment Problem					- https://www.interviewbit.com/problems/an-increment-problem/
+

@@ -35,3 +35,54 @@ Longest Palindromic Substring					- https://www.interviewbit.com/problems/longes
 Pretty Json					- https://www.interviewbit.com/problems/pretty-json/
 Reverse The String					- https://www.interviewbit.com/problems/reverse-the-string/
 
+Bit Manipulation
+
+Divide Integers					- https://www.interviewbit.com/problems/divide-integers/
+
+Two Pointers
+
+3 Sum					- https://www.interviewbit.com/problems/3-sum/
+Merge Two Sorted Lists Ii					- https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
+Remove Duplicates From Sorted Array					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
+Remove Duplicates From Sorted Array Ii					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/
+Sort By Color					- https://www.interviewbit.com/problems/sort-by-color/
+Array 3 Pointers					- https://www.interviewbit.com/problems/array-3-pointers/
+
+Linked Lists
+
+Partition List					- https://www.interviewbit.com/problems/partition-list/
+Insertion Sort List					- https://www.interviewbit.com/problems/insertion-sort-list/
+Reverse Link List Ii					- https://www.interviewbit.com/problems/reverse-link-list-ii/
+Reorder List					- https://www.interviewbit.com/problems/reorder-list/
+Palindrome List					- https://www.interviewbit.com/problems/palindrome-list/
+Remove Duplicates From Sorted List Ii					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/
+Merge Two Sorted Lists					- https://www.interviewbit.com/problems/merge-two-sorted-lists/
+Remove Duplicates From Sorted List					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/
+Add Two Numbers As Lists					- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
+List Cycle					- https://www.interviewbit.com/problems/list-cycle/
+K Reverse Linked List					- https://www.interviewbit.com/problems/k-reverse-linked-list/
+Swap List Nodes In Pairs					- https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/
+
+Stacks And Queues
+
+Simplify Directory Path					- https://www.interviewbit.com/problems/simplify-directory-path/
+Min Stack					- https://www.interviewbit.com/problems/min-stack/
+Nearest Smaller Element					- https://www.interviewbit.com/problems/nearest-smaller-element/
+Rain Water Trapped					- https://www.interviewbit.com/problems/rain-water-trapped/
+
+Backtracking
+
+Gray Code					- https://www.interviewbit.com/problems/gray-code/
+Permutations					- https://www.interviewbit.com/problems/permutations/
+Sudoku					- https://www.interviewbit.com/problems/sudoku/
+Subset					- https://www.interviewbit.com/problems/subset/
+Combination Sum Ii					- https://www.interviewbit.com/problems/combination-sum-ii/
+Subsets Ii					- https://www.interviewbit.com/problems/subsets-ii/
+Generate All Parentheses Ii					- https://www.interviewbit.com/problems/generate-all-parentheses-ii/
+
+Hashing
+
+Largest Continuous Sequence Zero Sum					- https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/
+Anagrams					- https://www.interviewbit.com/problems/anagrams/
+Copy List					- https://www.interviewbit.com/problems/copy-list/
+Fraction					- https://www.interviewbit.com/problems/fraction/

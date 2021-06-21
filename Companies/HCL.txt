@@ -3,3 +3,10 @@ Math
 Palindrome Integer					- https://www.interviewbit.com/problems/palindrome-integer/
 Reverse Integer					- https://www.interviewbit.com/problems/reverse-integer/
 
+Bit Manipulation
+
+Reverse Bits					- https://www.interviewbit.com/problems/reverse-bits/
+
+Linked Lists
+
+Remove Nth Node From List End					- https://www.interviewbit.com/problems/remove-nth-node-from-list-end/

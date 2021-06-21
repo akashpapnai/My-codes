@@ -35,3 +35,41 @@ Multiply Strings					- https://www.interviewbit.com/problems/multiply-strings/
 Minimum Parantheses					- https://www.interviewbit.com/problems/minimum-parantheses/
 Justified Text					- https://www.interviewbit.com/problems/justified-text/
 
+Bit Manipulation
+
+Different Bits Sum Pairwise					- https://www.interviewbit.com/problems/different-bits-sum-pairwise/
+Single Number Ii					- https://www.interviewbit.com/problems/single-number-ii/
+
+Two Pointers
+
+3 Sum Zero					- https://www.interviewbit.com/problems/3-sum-zero/
+Intersection Of Sorted Arrays					- https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
+Remove Duplicates From Sorted Array					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
+Array 3 Pointers					- https://www.interviewbit.com/problems/array-3-pointers/
+Container With Most Water					- https://www.interviewbit.com/problems/container-with-most-water/
+
+Linked Lists
+
+Insertion Sort List					- https://www.interviewbit.com/problems/insertion-sort-list/
+Sort List					- https://www.interviewbit.com/problems/sort-list/
+
+Stacks And Queues
+
+Balanced Parantheses					- https://www.interviewbit.com/problems/balanced-parantheses/
+Sliding Window Maximum					- https://www.interviewbit.com/problems/sliding-window-maximum/
+Largest Rectangle In Histogram					- https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
+Evaluate Expression					- https://www.interviewbit.com/problems/evaluate-expression/
+
+Backtracking
+
+Permutations					- https://www.interviewbit.com/problems/permutations/
+Nqueens					- https://www.interviewbit.com/problems/nqueens/
+Palindrome Partitioning					- https://www.interviewbit.com/problems/palindrome-partitioning/
+
+Hashing
+
+2 Sum					- https://www.interviewbit.com/problems/2-sum/
+4 Sum					- https://www.interviewbit.com/problems/4-sum/
+Valid Sudoku					- https://www.interviewbit.com/problems/valid-sudoku/
+Window String					- https://www.interviewbit.com/problems/window-string/
+Points On The Straight Line					- https://www.interviewbit.com/problems/points-on-the-straight-line/

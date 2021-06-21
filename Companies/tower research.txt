@@ -1,0 +1,3 @@
+Hashing
+
+Subarray With Equal Occurences					- https://www.interviewbit.com/problems/subarray-with-equal-occurences/

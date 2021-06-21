@@ -3,3 +3,7 @@ Maximum sum triplet 			- https://www.interviewbit.com/problems/maximum-sum-tripl
 Minimum lights to activate 		- https://www.interviewbit.com/problems/minimum-lights-to-activate/
 Maximum area of Triangle 		- https://www.interviewbit.com/problems/maximum-area-of-triangle/
 
+Hashing
+
+Window String					- https://www.interviewbit.com/problems/window-string/
+

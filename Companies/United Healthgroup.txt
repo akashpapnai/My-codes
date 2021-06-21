@@ -1,0 +1,3 @@
+Two Pointers
+
+Remove Duplicates From Sorted Array					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/

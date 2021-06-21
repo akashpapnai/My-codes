@@ -1,0 +1,9 @@
+Array
+
+Balance Array			- https://www.interviewbit.com/problems/balance-array/
+
+Hashing
+
+Subarray With Given Xor					- https://www.interviewbit.com/problems/subarray-with-given-xor/
+Subarray With B Odd Numbers					- https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/
+

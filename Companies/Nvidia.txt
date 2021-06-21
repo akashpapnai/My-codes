@@ -2,3 +2,7 @@ Strings
 
 Atoi					- https://www.interviewbit.com/problems/atoi/
 
+Bit Manipulation
+
+Reverse Bits					- https://www.interviewbit.com/problems/reverse-bits/
+

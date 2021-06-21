@@ -1,0 +1,3 @@
+Hashing
+
+An Increment Problem					- https://www.interviewbit.com/problems/an-increment-problem/

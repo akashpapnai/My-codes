@@ -7,3 +7,22 @@ Strings
 Atoi					- https://www.interviewbit.com/problems/atoi/
 Valid Number					- https://www.interviewbit.com/problems/valid-number/
 
+Bit Manipulation
+
+Number Of 1 Bits					- https://www.interviewbit.com/problems/number-of-1-bits/
+
+Two Pointers
+
+Merge Two Sorted Lists Ii					- https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
+Container With Most Water					- https://www.interviewbit.com/problems/container-with-most-water/
+
+Stacks And Queues
+
+Min Stack					- https://www.interviewbit.com/problems/min-stack/
+
+Backtracking
+
+Permutations					- https://www.interviewbit.com/problems/permutations/
+Combination Sum					- https://www.interviewbit.com/problems/combination-sum/
+Combinations					- https://www.interviewbit.com/problems/combinations/
+

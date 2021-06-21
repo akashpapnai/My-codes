@@ -49,3 +49,72 @@ Longest Palindromic Substring					- https://www.interviewbit.com/problems/longes
 Length Of Last Word						- https://www.interviewbit.com/problems/length-of-last-word/
 Reverse The String						- https://www.interviewbit.com/problems/reverse-the-string/
 
+Bit Manipulation
+
+Divide Integers					- https://www.interviewbit.com/problems/divide-integers/
+Reverse Bits					- https://www.interviewbit.com/problems/reverse-bits/
+Single Number					- https://www.interviewbit.com/problems/single-number/
+Single Number Ii					- https://www.interviewbit.com/problems/single-number-ii/
+Count Total Set Bits					- https://www.interviewbit.com/problems/count-total-set-bits/
+Palindromic Binary Representation					- https://www.interviewbit.com/problems/palindromic-binary-representation/
+
+Two Pointers
+
+Pair With Given Difference					- https://www.interviewbit.com/problems/pair-with-given-difference/
+3 Sum					- https://www.interviewbit.com/problems/3-sum/
+Maximum Ones After Modification					- https://www.interviewbit.com/problems/maximum-ones-after-modification/
+Max Continuous Series Of 1s					- https://www.interviewbit.com/problems/max-continuous-series-of-1s/
+Container With Most Water					- https://www.interviewbit.com/problems/container-with-most-water/
+Remove Duplicates From Sorted Array					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
+Remove Element From Array					- https://www.interviewbit.com/problems/remove-element-from-array/
+
+Linked Lists
+
+Sort Binary Linked List					- https://www.interviewbit.com/problems/sort-binary-linked-list/
+Kth Node From Middle					- https://www.interviewbit.com/problems/kth-node-from-middle/
+Reverse Alternate K Nodes					- https://www.interviewbit.com/problems/reverse-alternate-k-nodes/
+Reverse Link List Ii					- https://www.interviewbit.com/problems/reverse-link-list-ii/
+Reorder List					- https://www.interviewbit.com/problems/reorder-list/
+Palindrome List					- https://www.interviewbit.com/problems/palindrome-list/
+Merge Two Sorted Lists					- https://www.interviewbit.com/problems/merge-two-sorted-lists/
+Remove Nth Node From List End					- https://www.interviewbit.com/problems/remove-nth-node-from-list-end/
+Add Two Numbers As Lists					- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
+List Cycle					- https://www.interviewbit.com/problems/list-cycle/
+K Reverse Linked List					- https://www.interviewbit.com/problems/k-reverse-linked-list/
+Even Reverse					- https://www.interviewbit.com/problems/even-reverse/
+Even Reverse					- https://www.interviewbit.com/problems/even-reverse/
+Swap List Nodes In Pairs					- https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/
+Rotate List					- https://www.interviewbit.com/problems/rotate-list/
+
+Stacks And Queues
+
+Balanced Parantheses					- https://www.interviewbit.com/problems/balanced-parantheses/
+Redundant Braces					- https://www.interviewbit.com/problems/redundant-braces/
+Min Stack					- https://www.interviewbit.com/problems/min-stack/
+First Non Repeating Character In A Stream Of Characters					- https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
+Sliding Window Maximum					- https://www.interviewbit.com/problems/sliding-window-maximum/
+Nearest Smaller Element					- https://www.interviewbit.com/problems/nearest-smaller-element/
+Largest Rectangle In Histogram					- https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
+Rain Water Trapped					- https://www.interviewbit.com/problems/rain-water-trapped/
+
+Backtracking
+
+Kth Permutation Sequence					- https://www.interviewbit.com/problems/kth-permutation-sequence/
+Subset					- https://www.interviewbit.com/problems/subset/
+Combination Sum					- https://www.interviewbit.com/problems/combination-sum/
+Combination Sum Ii					- https://www.interviewbit.com/problems/combination-sum-ii/
+Combinations					- https://www.interviewbit.com/problems/combinations/
+Subsets Ii					- https://www.interviewbit.com/problems/subsets-ii/
+Nqueens					- https://www.interviewbit.com/problems/nqueens/
+Palindrome Partitioning					- https://www.interviewbit.com/problems/palindrome-partitioning/
+
+Amazon
+
+2 Sum					- https://www.interviewbit.com/problems/2-sum/
+4 Sum					- https://www.interviewbit.com/problems/4-sum/
+Valid Sudoku					- https://www.interviewbit.com/problems/valid-sudoku/
+Anagrams					- https://www.interviewbit.com/problems/anagrams/
+Copy List					- https://www.interviewbit.com/problems/copy-list/
+Longest Substring Without Repeat					- https://www.interviewbit.com/problems/longest-substring-without-repeat/
+Fraction					- https://www.interviewbit.com/problems/fraction/
+Points On The Straight Line					- https://www.interviewbit.com/problems/points-on-the-straight-line/

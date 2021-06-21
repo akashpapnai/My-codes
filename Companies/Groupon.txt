@@ -3,3 +3,6 @@ Strings
 Atoi					- https://www.interviewbit.com/problems/atoi/
 Longest Palindromic Substring					- https://www.interviewbit.com/problems/longest-palindromic-substring/
 
+Hashing
+
+An Increment Problem					- https://www.interviewbit.com/problems/an-increment-problem/

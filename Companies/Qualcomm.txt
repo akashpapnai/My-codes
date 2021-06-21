@@ -3,3 +3,15 @@ Strings
 Implement Strstr					- https://www.interviewbit.com/problems/implement-strstr/
 Reverse The String					- https://www.interviewbit.com/problems/reverse-the-string/
 
+Linked Lists
+
+Add Two Numbers As Lists					- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
+
+Stacks And Queues
+
+Rain Water Trapped					- https://www.interviewbit.com/problems/rain-water-trapped/
+
+Backtracking
+
+Nqueens					- https://www.interviewbit.com/problems/nqueens/
+Sudoku					- https://www.interviewbit.com/problems/sudoku/

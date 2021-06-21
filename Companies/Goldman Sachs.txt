@@ -14,3 +14,11 @@ Binary Search
 
 Median Of Array					- https://www.interviewbit.com/problems/median-of-array/
 
+Stacks And Queues
+
+Rain Water Trapped					- https://www.interviewbit.com/problems/rain-water-trapped/
+
+Hashing
+
+Anagrams					- https://www.interviewbit.com/problems/anagrams/
+

@@ -1,3 +1,0 @@
-Array
-
-Balance Array			- https://www.interviewbit.com/problems/balance-array/

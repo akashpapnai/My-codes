@@ -2,3 +2,11 @@ Array
 
 Maximum Sum Square Submatrix			- https://www.interviewbit.com/problems/maximum-sum-square-submatrix/
 
+Bit Manipulation
+
+Trailing Zeroes					- https://www.interviewbit.com/problems/trailing-zeroes/
+
+Hashing
+
+First Repeating Element					- https://www.interviewbit.com/problems/first-repeating-element/
+Longest Subarray Length					- https://www.interviewbit.com/problems/longest-subarray-length/

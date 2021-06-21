@@ -24,3 +24,34 @@ Minimum Appends For Palindrome					- https://www.interviewbit.com/problems/minim
 Pretty Json					- https://www.interviewbit.com/problems/pretty-json/
 Reverse The String					- https://www.interviewbit.com/problems/reverse-the-string/
 
+Two Pointers
+
+3 Sum					- https://www.interviewbit.com/problems/3-sum/
+3 Sum Zero					- https://www.interviewbit.com/problems/3-sum-zero/
+Diffk					- https://www.interviewbit.com/problems/diffk/
+Intersection Of Sorted Arrays					- https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
+Sort By Color					- https://www.interviewbit.com/problems/sort-by-color/
+
+Linked Lists
+
+Reverse Link List Ii					- https://www.interviewbit.com/problems/reverse-link-list-ii/
+Add Two Numbers As Lists					- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
+
+Stacks And Queues
+
+Largest Rectangle In Histogram					- https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
+Evaluate Expression					- https://www.interviewbit.com/problems/evaluate-expression/
+
+Backtracking
+
+Combination Sum					- https://www.interviewbit.com/problems/combination-sum/
+Letter Phone					- https://www.interviewbit.com/problems/letter-phone/
+Generate All Parentheses Ii					- https://www.interviewbit.com/problems/generate-all-parentheses-ii/
+
+Hashing
+
+2 Sum					- https://www.interviewbit.com/problems/2-sum/
+Diffk Ii					- https://www.interviewbit.com/problems/diffk-ii/
+Substring Concatenation					- https://www.interviewbit.com/problems/substring-concatenation/
+Equal					- https://www.interviewbit.com/problems/equal/
+

@@ -2,3 +2,7 @@ Strings
 
 Atoi					- https://www.interviewbit.com/problems/atoi/
 
+Backtracking
+
+Maximal String					- https://www.interviewbit.com/problems/maximal-string/
+
