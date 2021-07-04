@@ -76,12 +76,37 @@ Points On The Straight Line					- https://www.interviewbit.com/problems/points-o
 
 Heaps And Maps
 
-Merge K Sorted Lists					- https://www.interviewbit.com/problems/merge-k-sorted-lists/
+Merge K Sorted Lists						- https://www.interviewbit.com/problems/merge-k-sorted-lists/
 
 Tree Data Structure
 
-Invert The Binary Tree					- https://www.interviewbit.com/problems/invert-the-binary-tree/
+Invert The Binary Tree						- https://www.interviewbit.com/problems/invert-the-binary-tree/
 Sum Root To Leaf Numbers					- https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
-Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
-Order Of People Heights					- https://www.interviewbit.com/problems/order-of-people-heights/
-Shortest Unique Prefix					- https://www.interviewbit.com/problems/shortest-unique-prefix/
+Least Common Ancestor						- https://www.interviewbit.com/problems/least-common-ancestor/
+Order Of People Heights						- https://www.interviewbit.com/problems/order-of-people-heights/
+Shortest Unique Prefix						- https://www.interviewbit.com/problems/shortest-unique-prefix/
+
+Greedy Algorithm
+
+Majority Element						- https://www.interviewbit.com/problems/majority-element/
+Gas Station							- https://www.interviewbit.com/problems/gas-station/
+Disjoint Intervals						- https://www.interviewbit.com/problems/disjoint-intervals/
+
+Dynamic Programming
+
+Edit Distance							- https://www.interviewbit.com/problems/edit-distance/
+Repeating Subsequence						- https://www.interviewbit.com/problems/repeating-subsequence/
+Distinct Subsequences						- https://www.interviewbit.com/problems/distinct-subsequences/
+Regular Expression Ii						- https://www.interviewbit.com/problems/regular-expression-ii/
+Interleaving Strings						- https://www.interviewbit.com/problems/interleaving-strings/
+Word Break Ii							- https://www.interviewbit.com/problems/word-break-ii/
+Palindrome Partitioning Ii					- https://www.interviewbit.com/problems/palindrome-partitioning-ii/
+Word Break							- https://www.interviewbit.com/problems/word-break/
+Min Jumps Array							- https://www.interviewbit.com/problems/min-jumps-array/
+Shortest Common Superstring					- https://www.interviewbit.com/problems/shortest-common-superstring/
+Longest Valid Parentheses					- https://www.interviewbit.com/problems/longest-valid-parentheses/
+Increasing Path In Matrix					- https://www.interviewbit.com/problems/increasing-path-in-matrix/
+Max Rectangle In Binary Matrix					- https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
+Rod Cutting					- https://www.interviewbit.com/problems/rod-cutting/
+Sub Matrices With Sum Zero					- https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/
+

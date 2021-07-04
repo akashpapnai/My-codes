@@ -6,3 +6,7 @@ Sorted Permutation Rank With Repeats						- https://www.interviewbit.com/problem
 Bit Manipulation
 
 Xor Ing The Subarrays								- https://www.interviewbit.com/problems/xor-ing-the-subarrays/
+
+Dynamic Programming
+
+Subset Sum Problem								- https://www.interviewbit.com/problems/subset-sum-problem/	

@@ -11,5 +11,12 @@ Window String					- https://www.interviewbit.com/problems/window-string/
 
 Heaps And Maps
 
-Ways To Form Max Heap					- https://www.interviewbit.com/problems/ways-to-form-max-heap/
+Ways To Form Max Heap				- https://www.interviewbit.com/problems/ways-to-form-max-heap/
+
+Dynamic Programming
+
+Max Sum Path In Binary Tree			- https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/
+Max Sum Path In Binary Tree			- https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/
+Tiling With Dominoes				- https://www.interviewbit.com/problems/tiling-with-dominoes/
+Chain Of Pairs					- https://www.interviewbit.com/problems/chain-of-pairs/
 

@@ -14,7 +14,17 @@ Longest Subarray Length					- https://www.interviewbit.com/problems/longest-suba
 Tree Data Structure
 
 Diagonal Traversal					- https://www.interviewbit.com/problems/diagonal-traversal/
-Right View Of Binary Tree					- https://www.interviewbit.com/problems/right-view-of-binary-tree/
+Right View Of Binary Tree				- https://www.interviewbit.com/problems/right-view-of-binary-tree/
 Cousins In Binary Tree					- https://www.interviewbit.com/problems/cousins-in-binary-tree/
 Reverse Level Order					- https://www.interviewbit.com/problems/reverse-level-order/
+
+Greedy Algorithm
+
+Largest Permutation					- https://www.interviewbit.com/problems/largest-permutation/
+Gas Station						- https://www.interviewbit.com/problems/gas-station/
+
+Dynamic Programming
+
+0 1 Knapsack						- https://www.interviewbit.com/problems/0-1-knapsack/
+Best Time To Buy And Sell Stock Atmost B Times		- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/
 

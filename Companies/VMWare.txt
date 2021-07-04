@@ -19,5 +19,5 @@ Remove Duplicates From Sorted List					- https://www.interviewbit.com/problems/r
 
 Tree Data Structure
 
-Sorted Array To Balanced Bst					- https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/
+Sorted Array To Balanced Bst						- https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/
 

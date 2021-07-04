@@ -12,4 +12,9 @@ Two Out Of Three					- https://www.interviewbit.com/problems/two-out-of-three/
 
 Tree Data Structure
 
-Hotel Reviews					- https://www.interviewbit.com/problems/hotel-reviews/
+Hotel Reviews						- https://www.interviewbit.com/problems/hotel-reviews/
+
+Dynamic Programming
+
+Smallest Sequence With Given Primes			- https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/
+

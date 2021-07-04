@@ -28,10 +28,10 @@ Combinations						- https://www.interviewbit.com/problems/combinations/
 
 Heaps And Maps
 
-Lru Cache					- https://www.interviewbit.com/problems/lru-cache/
+Lru Cache						- https://www.interviewbit.com/problems/lru-cache/
 
 Tree Data Structure
 
 Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
-Flatten Binary Tree To Linked List					- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
+Flatten Binary Tree To Linked List			- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
 

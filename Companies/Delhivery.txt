@@ -1,4 +1,8 @@
 Heaps And Maps
 
-K Largest Elements					- https://www.interviewbit.com/problems/k-largest-elements/
+K Largest Elements								- https://www.interviewbit.com/problems/k-largest-elements/
+
+Dynamic Programming
+
+Best Time To Buy And Sell Stock Atmost B Times					- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/
 

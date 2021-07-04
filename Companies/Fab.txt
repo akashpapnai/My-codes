@@ -1,0 +1,3 @@
+Greedy Algorithm
+
+Meeting Rooms					- https://www.interviewbit.com/problems/meeting-rooms/

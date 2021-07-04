@@ -16,6 +16,12 @@ Pairs With Given Xor							- https://www.interviewbit.com/problems/pairs-with-gi
 
 Heaps And Maps
 
-K Largest Elements					- https://www.interviewbit.com/problems/k-largest-elements/
-Merge K Sorted Lists					- https://www.interviewbit.com/problems/merge-k-sorted-lists/
+K Largest Elements							- https://www.interviewbit.com/problems/k-largest-elements/
+Merge K Sorted Lists							- https://www.interviewbit.com/problems/merge-k-sorted-lists/
+
+Greedy Algorithm
+
+Meeting Rooms								- https://www.interviewbit.com/problems/meeting-rooms/
+Distribute Candy							- https://www.interviewbit.com/problems/distribute-candy/
+Gas Station								- https://www.interviewbit.com/problems/gas-station/
 

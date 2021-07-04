@@ -2,3 +2,7 @@ Binary Search
 
 Painters Partition Problem					- https://www.interviewbit.com/problems/painters-partition-problem/
 
+Dynamic Programming
+
+Ways To Color A 3xn Board					- https://www.interviewbit.com/problems/ways-to-color-a-3xn-board/
+

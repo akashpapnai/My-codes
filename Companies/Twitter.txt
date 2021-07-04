@@ -3,3 +3,7 @@ Strings
 Roman To Integer					- https://www.interviewbit.com/problems/roman-to-integer/
 Integer To Roman					- https://www.interviewbit.com/problems/integer-to-roman/
 
+Dynamic Programming
+
+Chain Of Pairs						- https://www.interviewbit.com/problems/chain-of-pairs/
+

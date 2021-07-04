@@ -1,0 +1,3 @@
+Greedy Algorithm
+
+Highest Product					- https://www.interviewbit.com/problems/highest-product/

@@ -9,3 +9,8 @@ Maximal String					- https://www.interviewbit.com/problems/maximal-string/
 Tree Data Structure
 
 Bst Iterator					- https://www.interviewbit.com/problems/bst-iterator/
+
+Greedy Algorithm
+
+Meeting Rooms					- https://www.interviewbit.com/problems/meeting-rooms/
+

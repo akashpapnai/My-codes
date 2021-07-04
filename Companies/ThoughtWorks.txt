@@ -1,4 +1,4 @@
 Tree Data Structure
 
 Right View Of Binary Tree					- https://www.interviewbit.com/problems/right-view-of-binary-tree/
-Maximum Level Sum					- https://www.interviewbit.com/problems/maximum-level-sum/
+Maximum Level Sum						- https://www.interviewbit.com/problems/maximum-level-sum/

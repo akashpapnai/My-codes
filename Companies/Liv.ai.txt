@@ -1,8 +1,13 @@
 Heaps And Maps
 
 N Max Pair Combinations					- https://www.interviewbit.com/problems/n-max-pair-combinations/
-Maximum Sum Combinations					- https://www.interviewbit.com/problems/maximum-sum-combinations/
+Maximum Sum Combinations				- https://www.interviewbit.com/problems/maximum-sum-combinations/
 
 Tree Data Structure
 
 Xor Between Two Arrays					- https://www.interviewbit.com/problems/xor-between-two-arrays/
+
+Dynamic Programming
+
+Kth Manhattan Distance Neighbourhood			- https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/
+Egg Drop Problem					- https://www.interviewbit.com/problems/egg-drop-problem/

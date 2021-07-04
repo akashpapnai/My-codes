@@ -25,6 +25,15 @@ Evaluate Expression							- https://www.interviewbit.com/problems/evaluate-expre
 
 Tree Data Structure
 
-Root To Leaf Paths With Sum					- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
-Path Sum					- https://www.interviewbit.com/problems/path-sum/
+Root To Leaf Paths With Sum						- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
+Path Sum								- https://www.interviewbit.com/problems/path-sum/
+
+Greedy Algorithm
+
+Majority Element							- https://www.interviewbit.com/problems/majority-element/
+
+Dynamic Programming
+
+Interleaving Strings							- https://www.interviewbit.com/problems/interleaving-strings/
+Longest Increasing Subsequence						- https://www.interviewbit.com/problems/longest-increasing-subsequence/
 

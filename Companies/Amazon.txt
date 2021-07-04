@@ -157,3 +157,35 @@ Cousins In Binary Tree						- https://www.interviewbit.com/problems/cousins-in-b
 Zigzag Level Order Traversal Bt					- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
 Populate Next Right Pointers Tree				- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
 Maximum Edge Removal						- https://www.interviewbit.com/problems/maximum-edge-removal/
+
+Greedy Algorithm
+
+Highest Product							- https://www.interviewbit.com/problems/highest-product/
+Meeting Rooms							- https://www.interviewbit.com/problems/meeting-rooms/
+Distribute Candy						- https://www.interviewbit.com/problems/distribute-candy/
+Assign Mice To Holes						- https://www.interviewbit.com/problems/assign-mice-to-holes/
+Majority Element						- https://www.interviewbit.com/problems/majority-element/
+Gas Station							- https://www.interviewbit.com/problems/gas-station/
+
+Dynamic Programming
+
+Edit Distance							- https://www.interviewbit.com/problems/edit-distance/
+0 1 Knapsack							- https://www.interviewbit.com/problems/0-1-knapsack/
+Best Time To Buy And Sell Stocks Ii				- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/
+Max Sum Path In Binary Tree					- https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/
+Unique Binary Search Trees Ii					- https://www.interviewbit.com/problems/unique-binary-search-trees-ii/
+Ways To Decode							- https://www.interviewbit.com/problems/ways-to-decode/
+Stairs								- https://www.interviewbit.com/problems/stairs/
+Longest Increasing Subsequence					- https://www.interviewbit.com/problems/longest-increasing-subsequence/
+Longest Increasing Subsequence					- https://www.interviewbit.com/problems/longest-increasing-subsequence/
+Jump Game Array							- https://www.interviewbit.com/problems/jump-game-array/
+Min Jumps Array							- https://www.interviewbit.com/problems/min-jumps-array/
+Evaluate Expression To True					- https://www.interviewbit.com/problems/evaluate-expression-to-true/
+Best Time To Buy And Sell Stocks Iii				- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/
+Maximum Path In Triangle					- https://www.interviewbit.com/problems/maximum-path-in-triangle/
+Min Sum Path In Matrix						- https://www.interviewbit.com/problems/min-sum-path-in-matrix/
+Max Product Subarray						- https://www.interviewbit.com/problems/max-product-subarray/
+Best Time To Buy And Sell Stocks I				- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/
+Arrange Ii							- https://www.interviewbit.com/problems/arrange-ii/
+Chain Of Pairs							- https://www.interviewbit.com/problems/chain-of-pairs/
+

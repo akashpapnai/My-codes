@@ -1,3 +1,8 @@
 Hashing
 
 Subarray With Equal Occurences					- https://www.interviewbit.com/problems/subarray-with-equal-occurences/
+
+Dynamic Programming
+
+Minimum Difference Subsets					- https://www.interviewbit.com/problems/minimum-difference-subsets/
+

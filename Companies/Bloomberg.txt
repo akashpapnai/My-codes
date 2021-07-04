@@ -12,5 +12,8 @@ An Increment Problem					- https://www.interviewbit.com/problems/an-increment-pr
 
 Tree Data Structure
 
-Max Depth Of Binary Tree					- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
+Max Depth Of Binary Tree				- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
 
+Greedy Algorithm
+
+Gas Station						- https://www.interviewbit.com/problems/gas-station/

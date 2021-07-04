@@ -1,12 +1,16 @@
 Math
 
-Prime Sum					- https://www.interviewbit.com/problems/prime-sum/
+Prime Sum							- https://www.interviewbit.com/problems/prime-sum/
 
 Backtracking
 
-Letter Phone					- https://www.interviewbit.com/problems/letter-phone/
+Letter Phone							- https://www.interviewbit.com/problems/letter-phone/
 
 Hashing
 
-Colorful Number					- https://www.interviewbit.com/problems/colorful-number/
+Colorful Number							- https://www.interviewbit.com/problems/colorful-number/
 
+Dynamic Programming
+
+Longest Increasing Subsequence					- https://www.interviewbit.com/problems/longest-increasing-subsequence/
+Max Sum Without Adjacent Elements				- https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/

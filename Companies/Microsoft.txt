@@ -109,3 +109,22 @@ Flatten Binary Tree To Linked List					- https://www.interviewbit.com/problems/f
 Zigzag Level Order Traversal Bt						- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
 Populate Next Right Pointers Tree					- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
 
+Greedy Algorithm
+
+Meeting Rooms								- https://www.interviewbit.com/problems/meeting-rooms/
+Distribute Candy							- https://www.interviewbit.com/problems/distribute-candy/
+Majority Element							- https://www.interviewbit.com/problems/majority-element/
+
+Dynamic Programming
+
+Edit Distance								- https://www.interviewbit.com/problems/edit-distance/
+Regular Expression Match						- https://www.interviewbit.com/problems/regular-expression-match/
+Regular Expression Ii							- https://www.interviewbit.com/problems/regular-expression-ii/
+Length Of Longest Subsequence						- https://www.interviewbit.com/problems/length-of-longest-subsequence/
+Smallest Sequence With Given Primes					- https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/
+Longest Increasing Subsequence						- https://www.interviewbit.com/problems/longest-increasing-subsequence/
+Longest Increasing Subsequence						- https://www.interviewbit.com/problems/longest-increasing-subsequence/
+Max Rectangle In Binary Matrix						- https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
+Max Rectangle In Binary Matrix					- https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
+Max Product Subarray					- https://www.interviewbit.com/problems/max-product-subarray/
+

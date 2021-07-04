@@ -57,7 +57,19 @@ Equal							- https://www.interviewbit.com/problems/equal/
 
 Tree Data Structure
 
-Bst Iterator					- https://www.interviewbit.com/problems/bst-iterator/
-Max Depth Of Binary Tree					- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
-Min Depth Of Binary Tree					- https://www.interviewbit.com/problems/min-depth-of-binary-tree/
+Bst Iterator						- https://www.interviewbit.com/problems/bst-iterator/
+Max Depth Of Binary Tree				- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
+Min Depth Of Binary Tree				- https://www.interviewbit.com/problems/min-depth-of-binary-tree/
 Least Common Ancestor					- https://www.interviewbit.com/problems/least-common-ancestor/
+
+Dynamic Programming
+
+Regular Expression Match				- https://www.interviewbit.com/problems/regular-expression-match/
+Regular Expression Ii					- https://www.interviewbit.com/problems/regular-expression-ii/
+Best Time To Buy And Sell Stocks Ii			- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/
+Ways To Decode						- https://www.interviewbit.com/problems/ways-to-decode/
+Longest Increasing Subsequence				- https://www.interviewbit.com/problems/longest-increasing-subsequence/
+Best Time To Buy And Sell Stocks Iii			- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/
+Unique Paths In A Grid					- https://www.interviewbit.com/problems/unique-paths-in-a-grid/
+Best Time To Buy And Sell Stocks I			- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/
+

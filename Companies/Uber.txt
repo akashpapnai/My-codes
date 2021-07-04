@@ -3,3 +3,6 @@ Two Pointers
 Counting Subarrays							- https://www.interviewbit.com/problems/counting-subarrays/
 Subarrays With Distinct Integers					- https://www.interviewbit.com/problems/subarrays-with-distinct-integers/
 
+Dynamic Programming
+
+Minimum Difference Subsets						- https://www.interviewbit.com/problems/minimum-difference-subsets/

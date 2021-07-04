@@ -1,0 +1,8 @@
+Greedy Algorithm
+
+Meeting Rooms							- https://www.interviewbit.com/problems/meeting-rooms/
+
+Dynamic Programming
+
+Longest Common Subsequence					- https://www.interviewbit.com/problems/longest-common-subsequence/
+

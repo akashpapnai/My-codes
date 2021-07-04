@@ -10,3 +10,10 @@ Strings
 
 Justified Text							- https://www.interviewbit.com/problems/justified-text/
 
+Dynamic Programming
+
+Longest Palindromic Subsequence					- https://www.interviewbit.com/problems/longest-palindromic-subsequence/
+Edit Distance							- https://www.interviewbit.com/problems/edit-distance/
+Max Product Subarray						- https://www.interviewbit.com/problems/max-product-subarray/
+Paint House							- https://www.interviewbit.com/problems/paint-house/
+
