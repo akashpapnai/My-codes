@@ -3,11 +3,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
-    /*
-    1 2 3
-    1 5 1
-    3 1 1
-    */
 public:
     long long maxPoints(vector<vector<int>>& points) {
         vector<vector<long long>> dp(points.size(), vector<long long>(points[0].size(), -1));
