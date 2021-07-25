@@ -27,4 +27,3 @@ int main() {
 	for(auto i:ans) cout<<(i?"true ":"false ");
 	cout<<endl;
 }
-// TEST
