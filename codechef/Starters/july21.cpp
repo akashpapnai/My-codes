@@ -5,6 +5,12 @@ using namespace std;
 #define ll long long
 class Solution {
 	int mod = 1e9+7;
+	class comp {
+		public:
+		bool operator()(const pair<ll,ll>&v1, const pair<ll,ll>&v2) const{
+			return v1.second == v2.second ? v1.first<v2.first : v2.second<v1.second;
+		}
+	};
 	public:
 	void chess_format() {
 		int a,b; cin>>a>>b;
@@ -41,15 +47,26 @@ class Solution {
 		}
 		cout<<max(resa,resb)<<endl;
 	}
-	/*undone*/void maximum_possible_sweetness() {
+	void maximum_possible_sweetness() {
 		ll n,d; cin>>n>>d;
-		ll p[n],s[n];
-		for(int i=0;i<n;i++) cin>>p[i];
-		for(int i=0;i<n;i++) cin>>s[i];
-		vector<pair<ll,ll>>vec(n);
-		for(int i=0;i<n;i++) vec[i] = {s[i],p[i]};
-		sort(vec.begin(),vec.end(),greater<pair<ll,ll>>());
-		
+		vector<pair<ll,ll>>candy(n);
+		for(ll i=0;i<n;i++) cin>>candy[i].first;
+		for(ll i=0;i<n;i++) cin>>candy[i].second;
+		sort(candy.begin(),candy.end());
+		ll ans=0;
+		multiset<pair<ll,ll>,comp>mset;
+		ll l=0;
+		for(ll r=n-1;r>=0;r--) {
+			while(l<r and candy[l].first + candy[r].first <= d) {
+				mset.insert(candy[l++]);
+			}
+			auto it = mset.find(candy[r]);
+			if(l>r and it!=mset.end()) mset.erase(it);
+			auto [cost1,sweet1] = mset.empty()?make_pair(0LL,0LL) : *mset.begin();
+			auto [cost2,sweet2] = candy[r];
+			if(cost1+cost2<=d) ans = max(ans,sweet1+sweet2);
+		}
+		cout<<ans<<endl;
 	}
 	/*undone*/void odd_bits() {
 		int n; cin>>n;
@@ -61,5 +78,5 @@ int main() {
 	Solution s;
 	int t; cin>>t;
 	while(t--)
-		s.odd_bits();
+		s.maximum_possible_sweetness();
 }
