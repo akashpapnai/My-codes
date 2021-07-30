@@ -6,3 +6,6 @@ Dynamic Programming
 
 Minimum Difference Subsets					- https://www.interviewbit.com/problems/minimum-difference-subsets/
 
+Graphs
+
+Path With Good Nodes						- https://www.interviewbit.com/problems/path-with-good-nodes/

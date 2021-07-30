@@ -6,7 +6,7 @@ Largest Number								- https://www.interviewbit.com/problems/largest-number/
 Next Permutation							- https://www.interviewbit.com/problems/next-permutation/
 Spiral Order Matrix Ii							- https://www.interviewbit.com/problems/spiral-order-matrix-ii/
 Anti Diagonals								- https://www.interviewbit.com/problems/anti-diagonals/
-Hotel Bookings Possible							- https://www.interviewbit.com/problems/hotel-bookings-possible/
+Hotel Bookings Possible						- https://www.interviewbit.com/problems/hotel-bookings-possible/
 Maximum Unsorted Subarray						- https://www.interviewbit.com/problems/maximum-unsorted-subarray/
 Max Distance								- https://www.interviewbit.com/problems/max-distance/
 
@@ -14,14 +14,14 @@ Math
 
 Grid Unique Paths							- https://www.interviewbit.com/problems/grid-unique-paths/
 Trailing Zeros In Factorial						- https://www.interviewbit.com/problems/trailing-zeros-in-factorial/
-Sorted Permutation Rank							- https://www.interviewbit.com/problems/sorted-permutation-rank/
+Sorted Permutation Rank						- https://www.interviewbit.com/problems/sorted-permutation-rank/
 
 Binary Search
 
 Search For A Range							- https://www.interviewbit.com/problems/search-for-a-range/
 Rotated Sorted Array Search						- https://www.interviewbit.com/problems/rotated-sorted-array-search/
 Square Root Of Integer							- https://www.interviewbit.com/problems/square-root-of-integer/
-Median Of Array								- https://www.interviewbit.com/problems/median-of-array/
+Median Of Array							- https://www.interviewbit.com/problems/median-of-array/
 
 Strings
 
@@ -37,7 +37,7 @@ Reverse The String							- https://www.interviewbit.com/problems/reverse-the-str
 
 Bit Manipulation
 
-Divide Integers								- https://www.interviewbit.com/problems/divide-integers/
+Divide Integers							- https://www.interviewbit.com/problems/divide-integers/
 
 Two Pointers
 
@@ -54,7 +54,7 @@ Partition List								- https://www.interviewbit.com/problems/partition-list/
 Insertion Sort List							- https://www.interviewbit.com/problems/insertion-sort-list/
 Reverse Link List Ii							- https://www.interviewbit.com/problems/reverse-link-list-ii/
 Reorder List								- https://www.interviewbit.com/problems/reorder-list/
-Palindrome List								- https://www.interviewbit.com/problems/palindrome-list/
+Palindrome List							- https://www.interviewbit.com/problems/palindrome-list/
 Remove Duplicates From Sorted List Ii					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/
 Merge Two Sorted Lists							- https://www.interviewbit.com/problems/merge-two-sorted-lists/
 Remove Duplicates From Sorted List					- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/
@@ -65,9 +65,9 @@ Swap List Nodes In Pairs						- https://www.interviewbit.com/problems/swap-list-
 
 Stacks And Queues
 
-Simplify Directory Path							- https://www.interviewbit.com/problems/simplify-directory-path/
+Simplify Directory Path						- https://www.interviewbit.com/problems/simplify-directory-path/
 Min Stack								- https://www.interviewbit.com/problems/min-stack/
-Nearest Smaller Element							- https://www.interviewbit.com/problems/nearest-smaller-element/
+Nearest Smaller Element						- https://www.interviewbit.com/problems/nearest-smaller-element/
 Rain Water Trapped							- https://www.interviewbit.com/problems/rain-water-trapped/
 
 Backtracking
@@ -94,19 +94,19 @@ Lru Cache								- https://www.interviewbit.com/problems/lru-cache/
 Tree Data Structure
 
 Recover Binary Search Tree						- https://www.interviewbit.com/problems/recover-binary-search-tree/
-Construct Binary Tree From Inorder And Preorder				- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
+Construct Binary Tree From Inorder And Preorder			- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
 Binary Tree From Inorder And Postorder					- https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
 Max Depth Of Binary Tree						- https://www.interviewbit.com/problems/max-depth-of-binary-tree/
 Sum Root To Leaf Numbers						- https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/
 Path Sum								- https://www.interviewbit.com/problems/path-sum/
 Root To Leaf Paths With Sum						- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
-Vertical Order Traversal Of Binary Tree					- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
+Vertical Order Traversal Of Binary Tree				- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
 Inorder Traversal							- https://www.interviewbit.com/problems/inorder-traversal/
 Preorder Traversal							- https://www.interviewbit.com/problems/preorder-traversal/
 Postorder Traversal							- https://www.interviewbit.com/problems/postorder-traversal/
 Least Common Ancestor							- https://www.interviewbit.com/problems/least-common-ancestor/
 Flatten Binary Tree To Linked List					- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
-Zigzag Level Order Traversal Bt						- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
+Zigzag Level Order Traversal Bt					- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
 Populate Next Right Pointers Tree					- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
 
 Greedy Algorithm
@@ -125,6 +125,11 @@ Smallest Sequence With Given Primes					- https://www.interviewbit.com/problems/
 Longest Increasing Subsequence						- https://www.interviewbit.com/problems/longest-increasing-subsequence/
 Longest Increasing Subsequence						- https://www.interviewbit.com/problems/longest-increasing-subsequence/
 Max Rectangle In Binary Matrix						- https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
-Max Rectangle In Binary Matrix					- https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
-Max Product Subarray					- https://www.interviewbit.com/problems/max-product-subarray/
+Max Rectangle In Binary Matrix						- https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
+Max Product Subarray							- https://www.interviewbit.com/problems/max-product-subarray/
+
+Graphs
+
+Word Ladder I								- https://www.interviewbit.com/problems/word-ladder-i/
+Word Ladder Ii								- https://www.interviewbit.com/problems/word-ladder-ii/
 

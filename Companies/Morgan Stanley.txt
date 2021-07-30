@@ -2,3 +2,8 @@ Dynamic Programming
 
 Stairs					- https://www.interviewbit.com/problems/stairs/
 
+Graphs
+
+Cycle In Directed Graph					- https://www.interviewbit.com/problems/cycle-in-directed-graph/
+Valid Path					- https://www.interviewbit.com/problems/valid-path/
+

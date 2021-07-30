@@ -1,3 +1,8 @@
 Dynamic Programming
 
 Max Edge Queries					- https://www.interviewbit.com/problems/max-edge-queries/
+
+Graphs 
+
+Useful Extra Edges					- https://www.interviewbit.com/problems/useful-extra-edges/
+

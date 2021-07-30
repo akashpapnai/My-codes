@@ -20,3 +20,11 @@ Max Sum Path In Binary Tree			- https://www.interviewbit.com/problems/max-sum-pa
 Tiling With Dominoes				- https://www.interviewbit.com/problems/tiling-with-dominoes/
 Chain Of Pairs					- https://www.interviewbit.com/problems/chain-of-pairs/
 
+Graphs
+
+Useful Extra Edges					- https://www.interviewbit.com/problems/useful-extra-edges/
+Two Teams					- https://www.interviewbit.com/problems/two-teams/
+Valid Path					- https://www.interviewbit.com/problems/valid-path/
+Min Cost Path					- https://www.interviewbit.com/problems/min-cost-path/
+Permutation Swaps					- https://www.interviewbit.com/problems/permutation-swaps/
+

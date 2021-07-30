@@ -2,7 +2,7 @@ Array
 
 Maximum Sum Contigious subarray 				- https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
 Maximum Absolute difference 					- https://www.interviewbit.com/problems/maximum-absolute-difference/
-Largest Number 							- https://www.interviewbit.com/problems/largest-number/
+Largest Number 						- https://www.interviewbit.com/problems/largest-number/
 Rotate matrix 							- https://www.interviewbit.com/problems/rotate-matrix/
 Next permutation 						- https://www.interviewbit.com/problems/next-permutation/
 Find permutation 						- https://www.interviewbit.com/problems/find-permutation/
@@ -31,12 +31,12 @@ Binary Search
 Matrix Median							- https://www.interviewbit.com/problems/matrix-median/
 Square Root Of Integer						- https://www.interviewbit.com/problems/square-root-of-integer/
 Rotated Sorted Array Search					- https://www.interviewbit.com/problems/rotated-sorted-array-search/
-Median Of Array							- https://www.interviewbit.com/problems/median-of-array/
+Median Of Array						- https://www.interviewbit.com/problems/median-of-array/
 
 Strings
 
 Count And Say							- https://www.interviewbit.com/problems/count-and-say/
-Compare Version Numbers						- https://www.interviewbit.com/problems/compare-version-numbers/
+Compare Version Numbers					- https://www.interviewbit.com/problems/compare-version-numbers/
 Atoi								- https://www.interviewbit.com/problems/atoi/
 Valid Ip Addresses						- https://www.interviewbit.com/problems/valid-ip-addresses/
 Implement Strstr						- https://www.interviewbit.com/problems/implement-strstr/
@@ -51,7 +51,7 @@ Reverse The String						- https://www.interviewbit.com/problems/reverse-the-stri
 
 Bit Manipulation
 
-Divide Integers							- https://www.interviewbit.com/problems/divide-integers/
+Divide Integers						- https://www.interviewbit.com/problems/divide-integers/
 Reverse Bits							- https://www.interviewbit.com/problems/reverse-bits/
 Single Number							- https://www.interviewbit.com/problems/single-number/
 Single Number Ii						- https://www.interviewbit.com/problems/single-number-ii/
@@ -62,7 +62,7 @@ Two Pointers
 
 Pair With Given Difference					- https://www.interviewbit.com/problems/pair-with-given-difference/
 3 Sum								- https://www.interviewbit.com/problems/3-sum/
-Maximum Ones After Modification					- https://www.interviewbit.com/problems/maximum-ones-after-modification/
+Maximum Ones After Modification				- https://www.interviewbit.com/problems/maximum-ones-after-modification/
 Max Continuous Series Of 1s					- https://www.interviewbit.com/problems/max-continuous-series-of-1s/
 Container With Most Water					- https://www.interviewbit.com/problems/container-with-most-water/
 Remove Duplicates From Sorted Array				- https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
@@ -70,12 +70,12 @@ Remove Element From Array					- https://www.interviewbit.com/problems/remove-ele
 
 Linked Lists
 
-Sort Binary Linked List						- https://www.interviewbit.com/problems/sort-binary-linked-list/
+Sort Binary Linked List					- https://www.interviewbit.com/problems/sort-binary-linked-list/
 Kth Node From Middle						- https://www.interviewbit.com/problems/kth-node-from-middle/
 Reverse Alternate K Nodes					- https://www.interviewbit.com/problems/reverse-alternate-k-nodes/
 Reverse Link List Ii						- https://www.interviewbit.com/problems/reverse-link-list-ii/
 Reorder List							- https://www.interviewbit.com/problems/reorder-list/
-Palindrome List							- https://www.interviewbit.com/problems/palindrome-list/
+Palindrome List						- https://www.interviewbit.com/problems/palindrome-list/
 Merge Two Sorted Lists						- https://www.interviewbit.com/problems/merge-two-sorted-lists/
 Remove Nth Node From List End					- https://www.interviewbit.com/problems/remove-nth-node-from-list-end/
 Add Two Numbers As Lists					- https://www.interviewbit.com/problems/add-two-numbers-as-lists/
@@ -91,9 +91,9 @@ Stacks And Queues
 Balanced Parantheses						- https://www.interviewbit.com/problems/balanced-parantheses/
 Redundant Braces						- https://www.interviewbit.com/problems/redundant-braces/
 Min Stack							- https://www.interviewbit.com/problems/min-stack/
-First Non Repeating Character In A Stream Of Characters		- https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
+First Non Repeating Character In A Stream Of Characters	- https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
 Sliding Window Maximum						- https://www.interviewbit.com/problems/sliding-window-maximum/
-Nearest Smaller Element						- https://www.interviewbit.com/problems/nearest-smaller-element/
+Nearest Smaller Element					- https://www.interviewbit.com/problems/nearest-smaller-element/
 Largest Rectangle In Histogram					- https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
 Rain Water Trapped						- https://www.interviewbit.com/problems/rain-water-trapped/
 
@@ -101,12 +101,12 @@ Backtracking
 
 Kth Permutation Sequence					- https://www.interviewbit.com/problems/kth-permutation-sequence/
 Subset								- https://www.interviewbit.com/problems/subset/
-Combination Sum							- https://www.interviewbit.com/problems/combination-sum/
+Combination Sum						- https://www.interviewbit.com/problems/combination-sum/
 Combination Sum Ii						- https://www.interviewbit.com/problems/combination-sum-ii/
 Combinations							- https://www.interviewbit.com/problems/combinations/
 Subsets Ii							- https://www.interviewbit.com/problems/subsets-ii/
-Nqueens								- https://www.interviewbit.com/problems/nqueens/
-Palindrome Partitioning						- https://www.interviewbit.com/problems/palindrome-partitioning/
+Nqueens							- https://www.interviewbit.com/problems/nqueens/
+Palindrome Partitioning					- https://www.interviewbit.com/problems/palindrome-partitioning/
 
 Amazon
 
@@ -135,7 +135,7 @@ Bst Iterator							- https://www.interviewbit.com/problems/bst-iterator/
 Recover Binary Search Tree					- https://www.interviewbit.com/problems/recover-binary-search-tree/
 Inorder Traversal Of Cartesian Tree				- https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/
 Sorted Array To Balanced Bst					- https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/
-Construct Binary Tree From Inorder And Preorder			- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
+Construct Binary Tree From Inorder And Preorder		- https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/
 Binary Tree From Inorder And Postorder				- https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
 Path To Given Node						- https://www.interviewbit.com/problems/path-to-given-node/
 Remove Half Nodes						- https://www.interviewbit.com/problems/remove-half-nodes/
@@ -146,7 +146,7 @@ Identical Binary Trees						- https://www.interviewbit.com/problems/identical-bi
 Path Sum							- https://www.interviewbit.com/problems/path-sum/
 Min Depth Of Binary Tree					- https://www.interviewbit.com/problems/min-depth-of-binary-tree/
 Root To Leaf Paths With Sum					- https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/
-Vertical Order Traversal Of Binary Tree				- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
+Vertical Order Traversal Of Binary Tree			- https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
 Diagonal Traversal						- https://www.interviewbit.com/problems/diagonal-traversal/
 Inorder Traversal						- https://www.interviewbit.com/problems/inorder-traversal/
 Preorder Traversal						- https://www.interviewbit.com/problems/preorder-traversal/
@@ -154,13 +154,13 @@ Postorder Traversal						- https://www.interviewbit.com/problems/postorder-trave
 Least Common Ancestor						- https://www.interviewbit.com/problems/least-common-ancestor/
 Flatten Binary Tree To Linked List				- https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/
 Cousins In Binary Tree						- https://www.interviewbit.com/problems/cousins-in-binary-tree/
-Zigzag Level Order Traversal Bt					- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
+Zigzag Level Order Traversal Bt				- https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
 Populate Next Right Pointers Tree				- https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
 Maximum Edge Removal						- https://www.interviewbit.com/problems/maximum-edge-removal/
 
 Greedy Algorithm
 
-Highest Product							- https://www.interviewbit.com/problems/highest-product/
+Highest Product						- https://www.interviewbit.com/problems/highest-product/
 Meeting Rooms							- https://www.interviewbit.com/problems/meeting-rooms/
 Distribute Candy						- https://www.interviewbit.com/problems/distribute-candy/
 Assign Mice To Holes						- https://www.interviewbit.com/problems/assign-mice-to-holes/
@@ -178,8 +178,8 @@ Ways To Decode							- https://www.interviewbit.com/problems/ways-to-decode/
 Stairs								- https://www.interviewbit.com/problems/stairs/
 Longest Increasing Subsequence					- https://www.interviewbit.com/problems/longest-increasing-subsequence/
 Longest Increasing Subsequence					- https://www.interviewbit.com/problems/longest-increasing-subsequence/
-Jump Game Array							- https://www.interviewbit.com/problems/jump-game-array/
-Min Jumps Array							- https://www.interviewbit.com/problems/min-jumps-array/
+Jump Game Array						- https://www.interviewbit.com/problems/jump-game-array/
+Min Jumps Array						- https://www.interviewbit.com/problems/min-jumps-array/
 Evaluate Expression To True					- https://www.interviewbit.com/problems/evaluate-expression-to-true/
 Best Time To Buy And Sell Stocks Iii				- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/
 Maximum Path In Triangle					- https://www.interviewbit.com/problems/maximum-path-in-triangle/
@@ -188,4 +188,19 @@ Max Product Subarray						- https://www.interviewbit.com/problems/max-product-su
 Best Time To Buy And Sell Stocks I				- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/
 Arrange Ii							- https://www.interviewbit.com/problems/arrange-ii/
 Chain Of Pairs							- https://www.interviewbit.com/problems/chain-of-pairs/
+
+Graphs
+
+Word Search Board						- https://www.interviewbit.com/problems/word-search-board/
+Knight On Chess Board						- https://www.interviewbit.com/problems/knight-on-chess-board/
+Cycle In Directed Graph					- https://www.interviewbit.com/problems/cycle-in-directed-graph/
+Clone Graph							- https://www.interviewbit.com/problems/clone-graph/
+Valid Path							- https://www.interviewbit.com/problems/valid-path/
+Snake Ladder Problem						- https://www.interviewbit.com/problems/snake-ladder-problem/
+Region In Binarymatrix						- https://www.interviewbit.com/problems/region-in-binarymatrix/
+Smallest Multiple With 0 And 1					- https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/
+Commutable Islands						- https://www.interviewbit.com/problems/commutable-islands/
+Possibility Of Finishing All Courses Given Prerequisites	- https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/
+Cycle In Undirected Graph					- https://www.interviewbit.com/problems/cycle-in-undirected-graph/
+Black Shapes							- https://www.interviewbit.com/problems/black-shapes/
 

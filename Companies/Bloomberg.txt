@@ -1,6 +1,6 @@
 Math
 
-Reverse Integer						- https://www.interviewbit.com/problems/reverse-integer/
+Reverse Integer					- https://www.interviewbit.com/problems/reverse-integer/
 
 Strings
 

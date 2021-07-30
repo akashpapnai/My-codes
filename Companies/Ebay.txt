@@ -2,3 +2,9 @@ Dynamic Programming
 
 Min Jumps Array					- https://www.interviewbit.com/problems/min-jumps-array/
 Jump Game Array					- https://www.interviewbit.com/problems/jump-game-array/
+
+Graphs
+
+Word Ladder I					- https://www.interviewbit.com/problems/word-ladder-i/
+Word Ladder Ii					- https://www.interviewbit.com/problems/word-ladder-ii/
+

@@ -30,3 +30,8 @@ Dynamic Programming
 
 Best Time To Buy And Sell Stock Atmost B Times			- https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stock-atmost-b-times/
 
+Graphs
+
+Knight On Chess Board					- https://www.interviewbit.com/problems/knight-on-chess-board/
+Level Order					- https://www.interviewbit.com/problems/level-order/
+

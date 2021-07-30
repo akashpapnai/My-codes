@@ -25,3 +25,7 @@ Meeting Rooms								- https://www.interviewbit.com/problems/meeting-rooms/
 Distribute Candy							- https://www.interviewbit.com/problems/distribute-candy/
 Gas Station								- https://www.interviewbit.com/problems/gas-station/
 
+Graphs
+
+Delete Edge					- https://www.interviewbit.com/problems/delete-edge/
+
