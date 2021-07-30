@@ -51,12 +51,12 @@ class Solution {
         return;
     }
     void beautiful_subsequence() { // TLE
-        ll n,k; cin>>n>>k;
-        ll i,j;
-        ll arr[n+1];
-        for(int i=1;i<=n;i++) cin>>arr[i];
+      ll n,k; cin>>n>>k;
+      ll i,j;
+      ll arr[n+1];
+      for(int i=1;i<=n;i++) cin>>arr[i];
 
-        vector<vector<ll>> dp(n + 1, vector<ll>(k + 1));
+      vector<vector<ll>> dp(n + 1, vector<ll>(k + 1));
 		vector<vector<ll>> mx(n + 1, vector<ll>(k + 1));
 		vector<vector<ll>> val(mxn, vector<ll>(k + 1, 0));
 		
