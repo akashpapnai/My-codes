@@ -36,17 +36,30 @@ class Solutions {
         }
         cout<<n-ans<<endl;
     }
+    void wonderful_coloring () {
+        string s; cin>>s;
+        unordered_map<char,int>umap;
+        for(auto i:s) umap[i]++;
+        int ans=0;
+        int count=0;
+        for(auto x:umap) {
+            if(x.second>1) {
+                ans++;
+            } else count++;
+        }
+        cout<<ans+count/2<<endl;
+    }
 };
 
 int main() {
-	#ifndef ONLINE_JUDGE
+    #ifndef ONLINE_JUDGE
       freopen("input.txt","r",stdin);
       freopen("output.txt","w",stdout);
    #endif
-	int t=1;
+    int t=1;
     cin>>t;
     while(t--) {
         Solutions s;
-        s.subsequence_permutations();
+        s.wonderful_coloring();
     }
 }
