@@ -1,8 +1,13 @@
 #include <bits/stdc++.h>
 typedef long long ll;
+#define vll vector<ll>
+#define vvll vector<vector<ll>>
+#define sll set<ll>
+#define llmll map<ll,ll>
 using namespace std;
 
 class Solutions {
+    int mod = 1e9+7;
     public:
     void cherry() {
         int n; cin>>n;
