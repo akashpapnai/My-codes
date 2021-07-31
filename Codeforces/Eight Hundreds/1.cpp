@@ -54,6 +54,56 @@ class Solutions {
         }
         cout<<ans+count/2<<endl;
     }
+    void color_the_flag () {
+        int n,m; cin>>n>>m;
+        vector<string>color(n);
+        for(auto &i:color) cin>>i;
+        vector<string>test1(n),test2(n);
+        vector<char>rgb{'R','W'};
+        for(int i=0;i<n;i++) {
+            string temp;
+            for(int j=0;j<m;j++) {
+                temp+=rgb[(i+j)%2];
+            }
+            test1[i] = temp;
+        }
+        for(int i=0;i<n;i++) {
+            string temp;
+            for(int j=0;j<m;j++) {
+                temp+=rgb[(i+j+1)%2];
+            }
+            test2[i] = temp;
+        }
+        bool flag=false;
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
+                if(test1[i][j]!=color[i][j] and color[i][j]!='.') {
+                    flag=true;
+                    break;
+                }
+            }
+        }
+        if(flag==false) {
+            cout<<"YES\n";
+            for(auto i:test1)cout<<i<<endl;
+            return;
+        }
+        flag=false;
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
+                if(test2[i][j]!=color[i][j] and color[i][j]!='.') {
+                    flag=true;
+                    break;
+                }
+            }
+        }
+        if(not flag) {
+            cout<<"YES\n";
+            for(auto i:test2) cout<<i<<endl;
+            return;
+        }
+        cout<<"NO\n";
+    }
 };
 
 int main() {
@@ -65,6 +115,6 @@ int main() {
     cin>>t;
     while(t--) {
         Solutions s;
-        s.wonderful_coloring();
+        s.color_the_flag();
     }
 }
