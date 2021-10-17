@@ -1,0 +1,47 @@
+{
+	// Place your snippets for cpp here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"cpp_overhead": {
+		"prefix": ["cpp_overhead","codechef","codeforces"],
+		"body": ["#include <bits/stdc++.h>",
+					"using namespace std;",
+					"#define ll long long",
+					"#define mod 1000000007\nvoid solve()",
+					"{",
+						"\t$0",
+					"}",
+					"int main() {\n#ifndef ONLINE_JUDGE",
+					"freopen(\"input.txt\", \"r\", stdin);",
+					"freopen(\"output.txt\", \"w\", stdout);",
+					"#endif\n\n\tll test=1;\n\tcin>>test;\n\twhile(test--)\n\t{\n\t\tsolve();\n\t}\n\treturn 0;\n}\n"
+				],
+		"description": "Default cpp code for CP"
+	},
+	"kickstart": {
+		"prefix": "kickstart",
+		"body": ["#include <bits/stdc++.h>",
+			"using namespace std;",
+			"#define ll long long",
+			"#define mod 1000000007\nvoid solve()",
+			"{",
+				"\t$0",
+			"}",
+			"int main() {\n//Comment ifndef before submitting\n#ifndef ONLINE_JUDGE",
+			"freopen(\"input.txt\", \"r\", stdin);",
+			"freopen(\"output.txt\", \"w\", stdout);",
+			"#endif\n\n\tll test=1;\n\tcin>>test;\n\tfor(int i=1;i<=test;i++)\n\t{\n\t\tcout<<\"Case #\"<<i<<\": \";\n\t\tsolve();\n\t}\n\treturn 0;\n}\n"
+		],
+					"description": "Default cpp code for Kickstart Competition"
+	}
+}
