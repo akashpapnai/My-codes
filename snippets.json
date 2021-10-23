@@ -17,14 +17,14 @@
 		"body": ["#include <bits/stdc++.h>",
 					"using namespace std;",
 					"#define ll long long",
-					"#define mod 1000000007\nvoid solve()",
-					"{",
+					"#define fastio {ios::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);}",
+					"#define mod 1000000007\nvoid solve() {",
 						"\t$0",
 					"}",
 					"int main() {\n#ifndef ONLINE_JUDGE",
 					"freopen(\"input.txt\", \"r\", stdin);",
 					"freopen(\"output.txt\", \"w\", stdout);",
-					"#endif\n\n\tll test=1;\n\tcin>>test;\n\twhile(test--)\n\t{\n\t\tsolve();\n\t}\n\treturn 0;\n}\n"
+					"#endif\n//fastio;\n\n\tll test=1;\n\tcin>>test;\n\twhile(test--)\n\t{\n\t\tsolve();\n\t}\n\treturn 0;\n}\n"
 				],
 		"description": "Default cpp code for CP"
 	},
@@ -43,5 +43,36 @@
 			"#endif\n\n\tll test=1;\n\tcin>>test;\n\tfor(int i=1;i<=test;i++)\n\t{\n\t\tcout<<\"Case #\"<<i<<\": \";\n\t\tsolve();\n\t}\n\treturn 0;\n}\n"
 		],
 					"description": "Default cpp code for Kickstart Competition"
-	}
+	},
+	"cpp_class_overhead": {
+		"prefix": ["cpp_class_overhead"],
+		"body": ["#include <bits/stdc++.h>",
+					"using namespace std;",
+					"#define ll long long",
+					"#define mod 1000000007",
+					"class Solution {",
+						"\tpublic:",
+						"\tvoid first() {",
+						"\t\t$0",
+					"\t}",
+					"\tvoid second() {",
+						"\t\t",
+					"\t}",
+					"\tvoid third() {",
+						"\t\t",
+					"\t}",
+					"\tvoid fourth() {",
+						"\t\t",
+					"\t}",
+					"\tvoid fifth() {",
+						"\t\t",
+					"\t}",
+					"};",
+					"int main() {\n#ifndef ONLINE_JUDGE",
+					"freopen(\"input.txt\", \"r\", stdin);",
+					"freopen(\"output.txt\", \"w\", stdout);",
+					"#endif\n\n\tll test=1;\n\tcin>>test;\n\twhile(test--)\n\t{\n\t\tSolution s;\n\t\ts.first();\n\t}\n\treturn 0;\n}\n"
+				],
+		"description": "Default cpp code for CP"
+	},
 }
